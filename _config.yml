@@ -45,7 +45,7 @@ markdown:    kramdown
 redcarpet:
   extensions: ['smart', 'tables', 'no_intra_emphasis', 'autolink', 'footnotes', 'superscript']
 kramdown:
-  input: GFM
+  #input: GFM
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
