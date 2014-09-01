@@ -31,6 +31,8 @@ Kathryn Rose
 
 Some of our children were adopted in 2011.
 
+My wife maintains a family blog at [Adopted by the King](http://www.adoptedbytheking.com).
+
 ## Education
 
 ### [Southeastern Baptist Theological Seminary](http://www.sebts.edu)
