@@ -68,6 +68,7 @@ Met weekly with pastors to discuss ministry in a healthy church.
 
 - Attended elders and members meetings.
 - Read and reported weekly on eccesiological texts.
+- Memorized Ephesians to instill a love for Scripture memorization.
 
 ### [Pillar on the Rock](http://www.pillarontherock.com) | an ecclesiological online magazine
 
