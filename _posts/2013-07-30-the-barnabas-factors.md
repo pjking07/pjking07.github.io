@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Barnabas Factors
+title: "The Barnabas Factors, by J. D. Payne"
 category: reviews
 tag: seminary
 context: The following partially satisfies the requirements for Dr. Mike Dodson's SEND North America Conference class at Southeastern Baptist Theological Seminary.

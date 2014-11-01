@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Soul Winner
+title: "The Soul Winner, by C. H. Spurgeon"
 date: 2013-12-04
 comments: false
 category: reviews

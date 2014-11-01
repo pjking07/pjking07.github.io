@@ -1,5 +1,5 @@
 ---
-title: Preaching on Your Feet
+title: "Preaching on Your Feet, by Fred Lybrand"
 layout: post
 category: reviews
 tag: seminary
@@ -61,8 +61,8 @@ Lybrand’s comment on self-plagiarism is one of many off-putting remarks in *Pr
 
 > The most effective preachers are those who preach on their feet, and the least effective ones are those who preach on their seats. (loc. 65–66)
 >
-> . . . 
-> 
+> . . .
+>
 > If we continue to write, use thick notes, take the seminary classroom into the pulpit, and, even worse, subscribe to other preachers’ sermons and read them as though they are our own, we’re not only *doing damage to our current congregations*, but we’re setting the stage for the fine art of authentic preaching to disappear from the ranks of those leaders in the generation ahead. (loc. 407–409, emphasis added)
 
 Throughout this book, Lybrand shows his dissatisfaction with the effectiveness of non-extemporaneous preaching. Indeed, he calls such preachers "ineffective" and laments that they are "doing damage to [their] congregations." Unfortunately, his disparagement toward other sermon delivery methodologies permeates his entire work. Thankfully, his demonstrated opinion appears to moderate as the book progresses. For example, toward the end of the book, Lybrand writes, "Some exceptional preachers are able to prepare a thick outline or a manuscript and bring it to life for an audience" (loc. 1419–1420). However, Lybrand counts the ability to preach a manuscript not as a skill in preaching, but in acting, which he presents as far less valuable.
@@ -79,4 +79,4 @@ Finally, Lybrand weakens his book through his heavy reliance upon (and affirmati
 
 # Conclusion
 
-In *Preaching on Your Feet*, Fred R. Lybrand argues that all preachers should practice exclusively extemporaneous preaching. He notes the many benefits to both preacher and congregant from extemporaneous preaching. However, his imperious tone throughout and brash disposition against naysayers yields an unhelpful contribution to the field of sermon delivery. Furthermore, Lybrand made such use of long citations from the likes of James Buckley, Charles Spurgeon, and Charles Finney, that one may prefer to read their works directly. Finally, by offering scant advice on how one can develop into an excellent extemporaneous preacher, Lybrand confirms his own assertion that preaching on your feet cannot be taught. 
+In *Preaching on Your Feet*, Fred R. Lybrand argues that all preachers should practice exclusively extemporaneous preaching. He notes the many benefits to both preacher and congregant from extemporaneous preaching. However, his imperious tone throughout and brash disposition against naysayers yields an unhelpful contribution to the field of sermon delivery. Furthermore, Lybrand made such use of long citations from the likes of James Buckley, Charles Spurgeon, and Charles Finney, that one may prefer to read their works directly. Finally, by offering scant advice on how one can develop into an excellent extemporaneous preacher, Lybrand confirms his own assertion that preaching on your feet cannot be taught.

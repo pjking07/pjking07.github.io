@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Humility: True Greatness"
+title: "Humility: True Greatness, by C. J. Mahaney"
 category: reviews
 tags: [seminary, fbc-durham]
 image:

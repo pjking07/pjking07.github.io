@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Master Plan of Evangelism
+title: "The Master Plan of Evangelism, by Robert E. Coleman"
 date: 2013-12-03
 comments: false
 category: reviews
@@ -42,4 +42,3 @@ Despite the problems sometimes found in Coleman’s interpretation, his applicat
 > When it is all boiled down, those of us who are seeking to train people must be prepared to have them follow us, even as we follow Christ (1 Cor. 11: 1). We are the exhibit (Phil. 3: 17f.; 1 Thess. 2: 7, 8; 2 Tim. 1: 13). They will do those things that they hear and see in us (Phil. 4: 9). Given time, it is possible through this kind of leadership to impart our way of living to those who are constantly with us. We must take this truth to our lives. There can be no shirking or evading of our personal responsibility to show the way to those we are training, and this revelation must include the practical outworking in life of the deeper realities of the Spirit. (pp. 77–78).
 
 > [Jesus’] whole evangelistic strategy—indeed, the fulfillment of his very purpose in coming into the world, dying on the cross, and rising from the grave—depended on the faithfulness of his chosen disciples to this task. It did not matter how small the group was to start with so long as they reproduced and taught their disciples to reproduce. This was the way his church was to win—through the dedicated lives of those who knew the Savior so well that his Spirit and method constrained them to tell others. As simple as it may seem, this was the way the gospel would conquer. (p. 102)
-

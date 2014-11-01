@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Gospel and Personal Evangelism
+title: "The Gospel and Personal Evangelism, by Mark Dever"
 date: 2013-12-02
 comments: false
 category: reviews
@@ -39,5 +39,3 @@ Dever structures his arguments around questions and answers. He often mentions h
 > The Christian call to evangelism is a call not simply to persuade people to make decisions but rather to proclaim to them the good news of salvation in Christ, to call them to repentance, and to give God the glory for regeneration and conversion. We don’t fail in our evangelism if we faithfully tell the gospel to someone who is not converted; we fail only if we don’t faithfully tell the gospel at all. Evangelism itself isn’t converting people; it’s telling them that they need to be converted and telling them how they can be. (pp. 81–82)
 
 > This is to be our evangelism: a God-given commission and method, a God-centered message, and a God-centered motive. We should all evangelize. Evangelism isn’t all those other things we considered; it is telling the good news about Jesus, and doing it with honesty, urgency, and joy, using the Bible, living a life that backs it up, and praying, and doing it all for the glory of God. (p. 107)
-
-

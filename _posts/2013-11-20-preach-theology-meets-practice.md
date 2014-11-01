@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Preach: Theology Meets Practice"
+title: "Preach: Theology Meets Practice, by Mark Dever and Greg Gilbert"
 date: 2013-11-20
 comments: false
 category: reviews

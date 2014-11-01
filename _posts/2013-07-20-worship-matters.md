@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Worship Matters
+title: "Worship Matters, by Bob Kauflin"
 category: reviews
 tag: seminary
 context: The following partially satisfies the requirements for Joshua Waggener's Ministry of Worship class at Southeastern Baptist Theological Seminary.
