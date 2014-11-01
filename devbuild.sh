@@ -1,2 +1,2 @@
 sudo bundle update &&
-bundle exec jekyll build --watch --config _config.yml,_config-dev.yml
+bundle exec jekyll build --watch --drafts --config _config.yml,_config-dev.yml
