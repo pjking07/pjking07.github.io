@@ -1,0 +1,27 @@
+---
+title: "Church Membership and Discipline"
+layout: post
+category: posts
+tag: seminary
+context: "The following partially satisfies the requirements for Dr. Jonathan Leeman's Local Church Doctrine & Practice class at Southeastern Baptist Theological Seminary."
+intro: "Why is carefully practicing church membership and discipline critical to the growth of the saints and the evangelism of the church?"
+description: "The gospel of Jesus Christ is marred when a church wrongly affirms non-Christians as members or rejects Christians as non-members. Therefore, a local church must protect the name of Jesus by affirming Christians, and only Christians, as members of Christ's body."
+keywords: [church, membership, discipline, "keys of the kingdom", bind, loose, gospel, evangelism]
+published: false
+---
+
+A church cannot be constituted without its membership. In fact, church membership has existed since the birth of the church. After the ascension of Christ, the disciples, who numbered 120, were all acting "with one accord" and "devoting themselves to prayer" (Acts 1:14).[^esv] After the coming of the Holy Spirit, Peter preached his Pentecost sermon, after which "those who received his word were baptized, and there were added that day about three thousand souls" (Acts 2:41). In the largest prospective members' class of all time, 3,000 souls heard the gospel, believed the gospel, were baptized, and were _added_ to the membership of the church.
+
+[^esv]: Unless otherwise specified, all Scripture references are from the English Standard Version (ESV).
+
+Even before the church existed as a Holy Spirit-indwelt entity, Jesus taught on church membership and discipline in Matthew 18:15--20. While giving practical instructions for the church discipline process, Jesus commissioned the church with the authority to both receive and dismiss members, saying, "Whatever you bind on earth shall be bound in heaven, and whatever you loose on earth shall be loosed in heaven" (Matt. 18:18). Therefore, membership and discipline are foundational to the very nature and function of the church.
+
+Because church membership and discipline have been commanded by Jesus for the entirety of the Church Age, its practice is important for churches today, especially to the benefit of evangelism and discipleship. When a member of a church that follows this pattern is evangelizing the lost, he is able to speak as one whom the church has affirmed as a Christian. One's church membership attests that one's message and lifestyle correspond to the teaching and expectation of the church. Without a careful approach to membership, a church may explicitly affirm the message and lifestyle of someone who does not accurately represent the name of Jesus. Similarly, a local church must discipline those it once pronounced members when they no longer hold to the faith or practice of Christianity, so that no false representatives tarnish the evangelistic witness of the church.
+
+Careful membership not only protects the credible witness of the church, it protects the name of Jesus. When a church takes in a member, it proclaims, "We affirm this person is a Christian; look to him in order to know Christ." Similarly, when a church excommunicates a member, it says, "We cannot affirm this person as a Christian; look to another in order to know Christ." Membership is a commission to proclaim and display Christ on a daily basis. Therefore, a church must exercise its authority to bind and loose members in order show the lost who accurately represents Christ and his church.
+
+Careful church membership and discipline is also important for discipleship and Christian growth in many of the same ways it is important for evangelism. While church membership is a church's affirmation of who is a Christian, church discipline is a church's chastisement of unchristian behavior and beliefs. Through each stage of church discipline, a local church teaches what it expects of Christians to all the people involved. Such discipline gives the straying Christian the opportunity to put to death the sin that reigns in his heart and, thus, grow in Christ. It also helps other members identify and repent of sin in their own lives. Ultimately, careful church membership and discipline serves to continually reinforce what it means to be a Christian and encourage growth in godliness and repentance.
+
+Because church membership and discipline are representative of binding and loosing in heaven, their careful practice requires the church to be neither too narrow nor too broad in its judgment. Because membership done rightly asserts that church members _are Christians_ and rejected applicants or excommunicants _are not Christians_, a church ought not require more or less of a Christian than Christ himself does. When a church's requirements for membership are too broad, the church will wrongly call Christian those who are unchristian. Conversely, when the membership requirements are too narrow, the church will wrongly call unchristian those who are Christian. Both of these errors hurt the evangelism and discipleship of a church.
+
+Every local church ought to exercise its commission from Jesus by practicing membership and discipline with diligence and care. The gospel of Jesus Christ is marred when a church wrongly affirms non-Christians as members or rejects Christians as non-members. Therefore, a local church must protect the name of Jesus by affirming Christians, and only Christians, as members of Christ's body.
