@@ -3,7 +3,7 @@ layout: post
 title: God the Father
 category: posts
 tag: seminary
-context: "The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology I class at Southeastern Baptist Theological Seminary"
+context: "The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology I class at Southeastern Baptist Theological Seminary"
 intro: What does it mean that God is Father?
 description: "God the Father, who has eternally been the Father of the God the Son, has chosen to adopt us as his own children so that we might receive his glorious inheritance."
 keywords: [godhead, father, trinity, child]

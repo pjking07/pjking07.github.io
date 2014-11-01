@@ -3,7 +3,7 @@ layout: post
 title: The Intended End of Theology
 category: posts
 tag: seminary
-context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology I class at Southeastern Baptist Theological Seminary.
+context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology I class at Southeastern Baptist Theological Seminary.
 intro: What is the intended end of Christian theology?
 description: The intended end of Christian theology is personally and communally knowing the God who has revealed himself in his Word. 
 keywords: [Knowing, God, Christian, theology, communal, community, revelation]

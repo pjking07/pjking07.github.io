@@ -5,7 +5,7 @@ category: posts
 tag: seminary
 description: The narrative of Abraham nearly sacrificing his son Isaac foreshadows the substitutionary sacrifice of Jesus Christ, the Lamb of God.
 keywords: [Sacrifice, Abraham, God, Genesis, Isaac, Jesus]
-context: The following partially satisfies the requirements for Dr. Steven McKinion's Biblical Hermeneutics class at Southeastern Baptist Theological Seminary.
+context: The following partially satisfies the requirements for Dr. Steven McKinion's Biblical Hermeneutics class at Southeastern Baptist Theological Seminary.
 intro: "What is the meaning and significance of Genesis 22:1–19?"
 date: 2013-02-01T08:00-05:00
 ---

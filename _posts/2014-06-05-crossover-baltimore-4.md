@@ -3,7 +3,7 @@ title: "Crossover Baltimore: Day 4"
 layout: post
 category: journal
 tag: seminary
-context: "The following partially satisfies the requirements for Dr. Alvin Reid's Crossover Baltimore class at Southeastern Baptist Theological Seminary."
+context: "The following partially satisfies the requirements for Dr. Alvin Reid's Crossover Baltimore class at Southeastern Baptist Theological Seminary."
 tags: [Baltimore, Crossover, Freedom, evangelize]
 description: "Today saw little fruit, but we were faithful to the task and God is still at work."
 date: 2014-06-05T23:00-4:00

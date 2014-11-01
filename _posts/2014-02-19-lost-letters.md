@@ -5,7 +5,7 @@ category: posts
 tag: seminary
 description: Any Pauline letter we may discover today would not be considered Scripture because the early church has already judged it to be sub-scriptural.
 keywords: [Paul, letter, epistle, discover, authority, Scripture]
-context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology I class at Southeastern Baptist Theological Seminary.
+context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology I class at Southeastern Baptist Theological Seminary.
 intro: If someone found another letter written by Paul to a church, would we read it as authoritative?
 published: true
 ---

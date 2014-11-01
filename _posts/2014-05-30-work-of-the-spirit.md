@@ -3,7 +3,7 @@ title: The Work of the Spirit
 layout: post
 category: posts
 tag: seminary
-context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology II class at Southeastern Baptist Theological Seminary.
+context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology II class at Southeastern Baptist Theological Seminary.
 intro: Describe the Holy Spirit's work in conversion.
 description: "The Spirit brings to completion all stages of conversion in an individual believer's life. This Spirit, who brought to effect both justification and sanctification, will also bring about future glorification—the resurrection of the dead to newness of life."
 keywords: [faith, indwelling, spirit, work, God, ]

@@ -5,7 +5,7 @@ category: posts
 tag: seminary
 description: Let us be hold to the truth of the text of the creation narrative while being generous with each other as we wrestle together for the proper interpretation.
 keywords: [creation, narrative, Genesis, day, night, calendar, 24 hour, Darwinism, evolution]
-context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology I class at Southeastern Baptist Theological Seminary.
+context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology I class at Southeastern Baptist Theological Seminary.
 intro: Is it necessary to believe that the days in Genesis were 24 hour days?
 date: 2014-04-09T08:00-05:00
 ---

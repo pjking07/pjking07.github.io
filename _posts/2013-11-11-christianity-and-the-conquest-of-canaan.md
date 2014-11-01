@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Christianity and the Conquest of Canaan
-context: The following partially satisfies the requirements for Dr. Moseley's Old Testament Introduction class at Southeastern Baptist Theological Seminary.
+context: The following partially satisfies the requirements for Dr. Moseley's Old Testament Introduction class at Southeastern Baptist Theological Seminary.
 category: papers
 tag: seminary
 ---

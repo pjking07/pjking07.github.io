@@ -3,7 +3,7 @@ layout: post
 title: "The Chiastic Key to 1 Corinthians 11:2–16"
 category: papers
 tag: seminary
-context: The following partially satisfies the requirements for Dr. Steven McKinion's Biblical Hermeneutics class at Southeastern Baptist Theological Seminary.
+context: The following partially satisfies the requirements for Dr. Steven McKinion's Biblical Hermeneutics class at Southeastern Baptist Theological Seminary.
 ---
 
 Christians must concern themselves with obeying the Lord’s commandments. Do Christians disobey Scripture when they do not explicitly observe Paul’s exhortation to the Corinthians to observe the tradition of head-coverings? At first glance, the arguments Paul makes regarding headship, glory, angels, and nature makes it difficult to know if the head-covering tradition ought to be universally observed. Indeed, “this passage is full of notorious exegetical difficulties.”[^1] Despite the difficulties, this paper will demonstrate that Paul’s chiastic-structured argument uses universal truths and cultural mores to exhort the Corinthians to maintain the tradition of head-coverings within the church in order to honor headship, promote propriety, and reveal glory. His concern in this pericope is consistent with his broader concerns for the Corinthians: the church ought to be unified, loving, and mutually submissive to the glory of God.

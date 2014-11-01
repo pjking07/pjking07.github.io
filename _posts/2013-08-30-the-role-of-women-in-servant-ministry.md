@@ -3,7 +3,7 @@ layout: post
 title: The Role of Women in Servant Ministry
 category: papers
 tag: seminary
-context: The following partially satisfies the requirements for Dr. Stephen Eccher's Christian Theology III class at Southeastern Baptist Theological Seminary.
+context: The following partially satisfies the requirements for Dr. Stephen Eccher's Christian Theology III class at Southeastern Baptist Theological Seminary.
 ---
 
 # Introduction

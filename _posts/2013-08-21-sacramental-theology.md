@@ -3,7 +3,7 @@ layout: post
 title: Sacramental Theology
 category: posts
 tag: seminary
-context: The following partially satisfies the requirements for Dr. Stephen Eccher's Christian Theology III class at Southeastern Baptist Theological Seminary.
+context: The following partially satisfies the requirements for Dr. Stephen Eccher's Christian Theology III class at Southeastern Baptist Theological Seminary.
 ---
 
 A minimalistic definition of sacrament is “a sacred thing.” This word has been used to describe many functions of the church throughout history. According to Peter Lombard (and ratified by the 4th Lateran Council in 1215AD), there are seven sacraments: Baptism, Confirmation, Eucharist, Penance, Marriage, Ordination, and Extreme Unction. However, the Reformers tended to agree that the only sacraments (ordinances) of Christ were Baptism and the Eucharist (Lord’s Supper). The other Catholic sacraments may have been considered aspects of the Christian life, but not direct commandments of Christ, and thus not sacramental.

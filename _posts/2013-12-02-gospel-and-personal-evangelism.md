@@ -5,7 +5,7 @@ date: 2013-12-02
 comments: false
 category: reviews
 tags: seminary
-context: The following partially satisfies the requirements for Dr. Alvin Reid's 9Marks Evangelism Conference class at Southeastern Baptist Theological Seminary.
+context: The following partially satisfies the requirements for Dr. Alvin Reid's 9Marks Evangelism Conference class at Southeastern Baptist Theological Seminary.
 ---
 
 *The Gospel and Personal Evangelism*. By Mark Dever. Wheaton: Crossway, 2007, 128 pp., $6.59 Kindle. Reviewed by Vernon R. King, III.

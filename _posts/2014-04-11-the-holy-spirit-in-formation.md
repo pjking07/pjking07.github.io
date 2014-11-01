@@ -6,7 +6,7 @@ tag: seminary
 description: The Holy Spirit unites us with God and empowers us mere mortals to live godly lives in light of the gospel of grace.
 keywords: [Holy Spirit, salvation, indwell, formation, sanctification, incarnation, Jew, Christian]
 intro: What role does the Holy Spirit play in Christian formation?
-context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology II class at Southeastern Baptist Theological Seminary.
+context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology II class at Southeastern Baptist Theological Seminary.
 date: 2014-04-11T08:00-5:00
 ---
 

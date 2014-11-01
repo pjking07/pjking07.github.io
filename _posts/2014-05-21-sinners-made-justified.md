@@ -3,7 +3,7 @@ title: Sinners Made Justified
 layout: post
 category: posts
 tag: seminary
-context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology II class at Southeastern Baptist Theological Seminary.
+context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology II class at Southeastern Baptist Theological Seminary.
 intro: "Describe what Christians mean when we say believers are 'justified'."
 description: In our conversion, God gives to us his very righteousness. One's righteousness is not improved, it is replaced. Outside of Christ, our righteousness is as filthy rags.
 keywords: [justify, righteous, grace, faith]

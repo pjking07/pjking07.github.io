@@ -5,7 +5,7 @@ category: posts
 tag: seminary
 description: "The Son entered the world, took his flesh from Mary, and reunited humanity with divinity so that the world might be saved."
 keywords: [incarnate, Son, world, flesh, mary, sin, Adam, save]
-context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology II class at Southeastern Baptist Theological Seminary.
+context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology II class at Southeastern Baptist Theological Seminary.
 intro: "What do we mean when we say that in the Incarnation the Son 'took his flesh from Mary'?"
 date: 2014-05-09T08:00-5:00
 ---

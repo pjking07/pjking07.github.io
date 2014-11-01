@@ -5,7 +5,7 @@ category: posts
 tag: seminary
 description: We must begin the gospel story with the Creator God and the creation narrative, but we will not understand the creation story until it is read in light of the whole gospel. 
 keywords: [beginning, create, Genesis, creator, creation, Loki, Aslan, Narnia]
-context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology I class at Southeastern Baptist Theological Seminary.
+context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology I class at Southeastern Baptist Theological Seminary.
 intro: Why is the creation account the first narrative in the Bible?
 date: 2014-04-02T08:00-5:00
 ---

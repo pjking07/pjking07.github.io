@@ -5,7 +5,7 @@ category: posts
 tag: seminary
 description: "Even though he saw the Son in his majesty, Peter attests to the more certain witness of the Scripture—the prophetic word of Scripture is more certain than our very eyes."
 keywords: [inspiration, inerrancy, revelation, prophet]
-context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology I class at Southeastern Baptist Theological Seminary.
+context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology I class at Southeastern Baptist Theological Seminary.
 intro: "How does 2 Peter 1:16ff inform our understanding of Scripture as revelation? You should discuss inspiration and inerrancy."
 date: 2014-04-21T08:00-5:00
 ---

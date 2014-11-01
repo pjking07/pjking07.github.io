@@ -4,7 +4,7 @@ title: The Beginning of Theology
 category: posts
 tag: seminary
 description: The beginning of theology is participation in the faith handed down through the ages.
-context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology I class at Southeastern Baptist Theological Seminary.
+context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology I class at Southeastern Baptist Theological Seminary.
 intro: "What is the starting place of Christian theology?"
 keywords: [theology, beginning, Scripture, theologian, Trinity]
 date: 2014-02-03T08:00-05:00

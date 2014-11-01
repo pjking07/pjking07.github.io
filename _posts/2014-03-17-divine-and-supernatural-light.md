@@ -5,7 +5,7 @@ category: posts
 tag: [seminary, fbc-durham]
 description: "This divine knowledge is not new revelation, but is the affirmation of what the word of God already reveals. Ultimately, this divine light is a unique expression for the reality of conversion."
 keywords: [divine, knowledge, conversion, edwards, "Matthew 16:17"]
-context: The following partially satisfies the requirements for Dr. Andrew Davis' Pastoral Internship class at Southeastern Baptist Theological Seminary.
+context: The following partially satisfies the requirements for Dr. Andrew Davis' Pastoral Internship class at Southeastern Baptist Theological Seminary.
 intro: "<cite>A Divine and Supernatural Light</cite>. Sermon by Jonathan Edwards."
 date: 2014-03-17T08:00-5:00
 ---

@@ -3,7 +3,7 @@ layout: post
 title: Growing in Holiness
 category: lessons
 tag: seminary
-context: The following partially satisfies the requirements for Dr. Tony Merida's Bible Exposition class at Southeastern Baptist Theological Seminary.
+context: The following partially satisfies the requirements for Dr. Tony Merida's Bible Exposition class at Southeastern Baptist Theological Seminary.
 ---
 
 # Introduction

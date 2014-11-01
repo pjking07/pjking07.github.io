@@ -5,7 +5,7 @@ category: posts
 tags: [seminary, fbc-durham]
 description: "In his chapter, 'Puritan Evangelism', J. I. Packer distinguishes between what he calls 'modern' evangelism and Puritan evangelism."
 keywords: [puritan, modern, evangelism, packer, gospel]
-context: The following partially satisfies the requirements for Dr. Andrew Davis' Pastoral Internship class at Southeastern Baptist Theological Seminary.
+context: The following partially satisfies the requirements for Dr. Andrew Davis' Pastoral Internship class at Southeastern Baptist Theological Seminary.
 intro: "<cite>A Quest for Godliness: The Puritan Vision of the Christian Life</cite>. By J. I. Packer. Crossway, 1990, 368 pp., $17.67."
 buy:
     amazon: 1433515814

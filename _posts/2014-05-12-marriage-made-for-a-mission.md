@@ -5,7 +5,7 @@ category: papers
 tag: seminary
 description: "The purpose of marriage is to promote mankind's mission to 'be fruitful and multiply and fill the earth and subdue it' (Gen. 1:28). As a result, the definition of marriage is universal and immutable."
 keywords: [marriage, creation, mission]
-context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology I class at Southeastern Baptist Theological Seminary.
+context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology I class at Southeastern Baptist Theological Seminary.
 date: 2014-05-12T08:00-4:00
 ---
 

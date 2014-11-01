@@ -3,7 +3,7 @@ layout: post
 title: The Necessity of the Resurrection
 category: posts
 tag: seminary
-context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology II class at Southeastern Baptist Theological Seminary.
+context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology II class at Southeastern Baptist Theological Seminary.
 intro: "Why was the resurrection of Jesus necessary for salvation?"
 description: "Without Christ's own resurrection, we would have no resurrection and would still be lost to the last enemy, namely, death."
 keywords: [resurrection, body, physical, spiritual, death, faith]

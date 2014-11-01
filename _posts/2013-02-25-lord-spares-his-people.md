@@ -3,7 +3,7 @@ layout: post
 title: The LORD Spares his People
 category: posts
 tag: seminary
-context: The following partially satisfies the requirements for Dr. Steven McKinion's Biblical Hermeneutics class at Southeastern Baptist Theological Seminary.
+context: The following partially satisfies the requirements for Dr. Steven McKinion's Biblical Hermeneutics class at Southeastern Baptist Theological Seminary.
 intro: "What is the meaning and significance of Psalm 103?"
 description: "Psalm 103 reminds us to bless the LORD for all he has done for his covenant people, his children, which we know was fully accomplished in the work of Jesus Christ, the Son of God."
 keywords: [exhort, covenant, soul, psalm, "Psalm 103", bless]

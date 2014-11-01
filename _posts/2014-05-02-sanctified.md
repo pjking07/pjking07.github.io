@@ -5,7 +5,7 @@ category: posts
 tag: seminary
 description: "Sanctification, the progressive growth in holiness offers the Church a testimony to an individual's salvation. Current sanctification testifies to the past work of justification and the future work of glorification. Without each, there is no salvation."
 keywords: [justify, sanctify, glorify]
-context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology II class at Southeaster Baptist Theological Seminary.
+context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology II class at Southeaster Baptist Theological Seminary.
 intro: "What does it mean to be 'sanctified'?"
 date: 2014-05-02T08:00-5:00
 ---

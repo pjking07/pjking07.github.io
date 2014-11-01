@@ -5,7 +5,7 @@ category: posts
 tags: [seminary, fbc-durham]
 description: "Luther's writing on righteousness distinguishes between two types: alien righteousness, which is instilled from without, and proper righteousness, which is worked out from alien righteousness."
 keywords: [Luther, righteousness, Christ, death, love]
-context: The following partially satisifies the requirements for Dr. Andrew Davis' Pastoral Internship class through Southeastern Baptist Theological Seminary.
+context: The following partially satisifies the requirements for Dr. Andrew Davis' Pastoral Internship class through Southeastern Baptist Theological Seminary.
 intro: '"<a href="http://www.mcm.edu/~eppleyd/luther.html">Two Kinds of Righteousness</a>." By Martin Luther.'
 date: 2014-07-07T08:00-4:00
 ---

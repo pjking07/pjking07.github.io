@@ -5,7 +5,7 @@ category: posts
 tag: seminary
 description: "Adam's one trespass led to death and eventual sin for all men; Jesus' act of righteousness leads to life for all men."
 keywords: [Adam, Jesus, death, sin, life, guilt]
-context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology II class at Southeastern Baptist Theological Seminary
+context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology II class at Southeastern Baptist Theological Seminary
 intro: "How do we understand what Romans 5:12ff has to say about Adam's role in our sin and death?"
 date: 2014-05-07T08:00-5:00
 ---

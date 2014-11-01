@@ -3,7 +3,7 @@ title: The Deity of Jesus
 layout: post
 category: posts
 tag: seminary
-context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology II class at Southeastern Baptist Theological Seminary.
+context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology II class at Southeastern Baptist Theological Seminary.
 intro: Why is the deity of Jesus so important to our understanding of salvation?
 description: The deity and humanity of Jesus is essential to our understanding of salvation. Without both natures united in one Person, humanity will die and have no hope of future resurrection. 
 keywords: [deity, divine, human, salvation, Jesus, God, standing, incarnate, work]

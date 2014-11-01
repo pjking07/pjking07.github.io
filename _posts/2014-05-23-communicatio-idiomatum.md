@@ -3,7 +3,7 @@ title: Communicatio Idiomatum
 layout: post
 category: posts
 tag: seminary
-context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology II class at Southeastern Baptist Theological Seminary.
+context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology II class at Southeastern Baptist Theological Seminary.
 intro: Describe the communication of attributes.
 description: The Son makes this descent for the salvation of men. Jesus uses the different attributes of his two natures as is appropriate for his work of salvation for mankind.
 keywords: [nature, attribute, flesh, Son, God, Jesus, human, incarnation]

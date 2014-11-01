@@ -3,7 +3,7 @@ layout: post
 title: A Merciful and Gracious God
 category: posts
 tag: seminary
-context: The following partially satisfies the requirements for Dr. Steven McKinion's Biblical Hermeneutics class at Southeastern Baptist Theological Seminary.
+context: The following partially satisfies the requirements for Dr. Steven McKinion's Biblical Hermeneutics class at Southeastern Baptist Theological Seminary.
 intro: "What is the meaning and significance of Exodus 34?"
 description: "The LORD uses the renewed covenant with fallen Israel as another example that he is merciful, loving, forgiving, and just; however, his new covenant through Jesus will be even greater."
 keywords: [Exodus, Moses, "Ten Commandments", Israel, covenant, merciful, loving, just, forgiving]

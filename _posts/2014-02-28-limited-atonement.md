@@ -5,7 +5,7 @@ category: posts
 tag: seminary
 description: The redeeming work of Christ is unlimited in power and totally effective for those who respond in faith.
 keywords: [elect, salvation, atonement, redemption, limited, unlimited, particular, general]
-context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology II class at Southeastern Baptist Theological Seminary.
+context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology II class at Southeastern Baptist Theological Seminary.
 intro: Did Jesus atone for the sins of every person, or just those who become Christians?
 date: 2014-02-28T08:00-5:00
 ---

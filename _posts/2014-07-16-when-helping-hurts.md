@@ -7,7 +7,7 @@ description: "Rather than (merely) offering a handout, we should offer our hands
 keywords: [help, poverty, poor, inferiority-complex, god-complex]
 buy:
     amazon: 0802409989
-context: The following partially satisifies the requirements for Dr. Andrew Davis' Pastoral Internship class at Southeastern Baptist Theological Seminary.
+context: The following partially satisifies the requirements for Dr. Andrew Davis' Pastoral Internship class at Southeastern Baptist Theological Seminary.
 intro: "<cite>When Helping Hurts: How to Alleviate Poverty without Hurting the Poor and Yourself</cite>. By Steven Corbett and Brian Fikkert. Chicago: Moody, 2012, 274 pp., $15.99 paperback."
 date: 2014-07-16T08:00-4:00
 published: true

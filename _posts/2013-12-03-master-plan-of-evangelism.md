@@ -5,7 +5,7 @@ date: 2013-12-03
 comments: false
 category: reviews
 tags: seminary
-context: The following partially satisfies the requirements for Dr. Alvin Reid's 9Marks Evangelism Conference class at Southeastern Baptist Theological Seminary.
+context: The following partially satisfies the requirements for Dr. Alvin Reid's 9Marks Evangelism Conference class at Southeastern Baptist Theological Seminary.
 ---
 
 *The Master Plan of Evangelism*. By Robert E. Coleman. 2nd Ed. Abridged. Grand Rapids: Revell, 2010, 154 pp., $5.12 Kindle. Reviewed by Vernon R. King, III.

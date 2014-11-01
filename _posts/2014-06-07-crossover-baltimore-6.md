@@ -3,7 +3,7 @@ title: "Crossover Baltimore: Day 6"
 layout: post
 category: journal
 tag: seminary
-context: "The following partially satisfies the requirements for Dr. Alvin Reid's Crossover Baltimore class at Southeastern Baptist Theological Seminary."
+context: "The following partially satisfies the requirements for Dr. Alvin Reid's Crossover Baltimore class at Southeastern Baptist Theological Seminary."
 tags: [Baltimore, Crossover, evangelism, gospel]
 description: "My teammates and I were privileged to participate in one lady's entrance into the Kingdom of Christ."
 date: 2014-06-07T23:00-4:00

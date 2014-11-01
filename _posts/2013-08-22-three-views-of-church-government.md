@@ -3,7 +3,7 @@ layout: post
 title: Three Views of Church Government
 category: posts
 tag: seminary
-context: The following partially satisfies the requirements for Dr. Stephen Eccher's Christian Theology III class at Southeastern Baptist Theological Seminary.
+context: The following partially satisfies the requirements for Dr. Stephen Eccher's Christian Theology III class at Southeastern Baptist Theological Seminary.
 ---
 
 Three broad categories of church government exist today: Episcopal, Presbyterian, and Congregational. The episcopal structure, which is seen today in the Catholic, Anglican, and Methodist churches, is rooted in the concept of apostolic succession; bishops beget bishops. Furthermore, individual bishops oversee multiple congregations. Depending on the size of the denomination, there may be multiple levels of single bishops ruling over regions. At the lowest level, a single bishop oversees multiple churches, which are each led by a single priest or minister. This role of bishop is distinct from the role of a priest (or elder). However, this distinction cannot be maintained in the New Testament usage of *presbuteros* and *episkopos*. The Episcopal structure is hierarchical with all authority coming from the top. This maintains a strong divide both between bishops and priests and between clergy and laity. The Episcopal structure is rooted in history (as early as Ignatius) and has tenuous biblical support, at best.

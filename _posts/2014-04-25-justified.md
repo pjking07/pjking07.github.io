@@ -6,7 +6,7 @@ tag: seminary
 description: "God's work of justification allows us to participate Jesus' right standing before the Father so that we may become the very righteousness of God."
 keywords: [justify, sanctify, righteous, transformation, salvation]
 intro: What does it mean to be "justified"?
-context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology II class at Southeastern Baptist Theological Seminary.
+context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology II class at Southeastern Baptist Theological Seminary.
 date: 2014-04-25T08:00-5:00
 ---
 

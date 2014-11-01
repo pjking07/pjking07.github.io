@@ -5,7 +5,7 @@ category: posts
 tag: seminary
 description: Christian theology involves retelling the story of the Bible. We want to take the story of Scripture and retell it in a holistic, systematic way so that we maintain the original meaning. 
 keywords: [theology, gospel, task, Christian, systematic]
-context: "The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology I class at Southeastern Baptist Theological Seminary."
+context: "The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology I class at Southeastern Baptist Theological Seminary."
 intro: "Describe our method for doing Christian Theology."
 date: 2014-04-16T08:00-5:00
 ---

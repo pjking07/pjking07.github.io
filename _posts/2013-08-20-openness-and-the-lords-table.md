@@ -3,7 +3,7 @@ layout: post
 title: Openness and the Lord's Table
 category: posts
 tag: seminary
-context: The following partially satisfies the requirements for Dr. Stephen Eccher's Christian Theology III class at Southeastern Baptist Theological Seminary.
+context: The following partially satisfies the requirements for Dr. Stephen Eccher's Christian Theology III class at Southeastern Baptist Theological Seminary.
 ---
 
 There is an ongoing debate about who can properly participate in the Lord's Supper. The first concern is the relationship between the universal and local church in regard to the administration of the Supper. The second concern is the relationship between a Christian's baptism and his ability to participate in the Supper.

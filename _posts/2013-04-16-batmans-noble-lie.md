@@ -3,7 +3,7 @@ layout: post
 title: Batman's Noble Lie
 category: posts
 tag: seminary
-context: The following partially satisfies the requirements for Dr. Jeremy Evans' Introduction to Philosophy class at Southeastern Baptist Theological Seminary.
+context: The following partially satisfies the requirements for Dr. Jeremy Evans' Introduction to Philosophy class at Southeastern Baptist Theological Seminary.
 ---
 
 In *Πολιτεία* (*Republic*), Plato argues in favor of a society which believes a γενναῖον ψεῦδος ("noble lie") so that the people will be "more inclined to care for the state and one another" (Book 3, 415d).  The lie exists to give the people a false loyalty to the Republic and a false hope in its justice. Plato seems to believe that telling the lie is morally right based on a utilitarian ethic. Christopher Nolan's *The Dark Knight* concludes with two noble lies: 1) Batman killed Harvey Dent and 2) Rachel Dawes chose to be with Bruce Wayne. The first lie is initiated by Batman and perpetuated by Jim Gordon toward the City of Gotham, while the second lie is solely the work of Alfred Pennyworth toward Bruce Wayne. The utilitarian logic behind both of these lies is stated by Batman in the closing scenes:

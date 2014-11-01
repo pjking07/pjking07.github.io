@@ -3,7 +3,7 @@ layout: post
 title: Eating the Forbidden Fruit
 category: posts
 tag: seminary
-context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology II class at Southeastern Baptist Theological Seminary.
+context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology II class at Southeastern Baptist Theological Seminary.
 intro: Why was it a sin to eat of the fruit of the tree of the knowledge of good and evil?
 description: Why was it a sin to eat of the fruit of the tree of the knowledge of good and evil? Simply put, it was sinful because it was disobeying a divine command from God.
 keywords: [sin, Adam, Eve, garden, Eden, command, obey, temptation, devil]

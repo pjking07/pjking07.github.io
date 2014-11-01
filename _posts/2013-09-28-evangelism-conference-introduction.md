@@ -3,7 +3,7 @@ layout: post
 title: Evangelism Conference Introduction
 category: posts
 tag: seminary
-context: The following partially satisfies the requirements for Dr. Alvin Reid's 9Marks Evangelism Conference class at Southeastern Baptist Theological Seminary.
+context: The following partially satisfies the requirements for Dr. Alvin Reid's 9Marks Evangelism Conference class at Southeastern Baptist Theological Seminary.
 ---
 
 The upcoming 9Marks conference at Southeastern Baptist Theological Seminary will discuss evangelism. Because each 9Marks conference is "about the church, for the church," this conference will focus on the church and the Christian's role in evangelism, as well as methods pertaining therein. Indeed, the stated goal of the conference is to answer the following questions:

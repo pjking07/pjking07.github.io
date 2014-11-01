@@ -3,7 +3,7 @@ layout: post
 title: "The Barnabas Factors, by J. D. Payne"
 category: reviews
 tag: seminary
-context: The following partially satisfies the requirements for Dr. Mike Dodson's SEND North America Conference class at Southeastern Baptist Theological Seminary.
+context: The following partially satisfies the requirements for Dr. Mike Dodson's SEND North America Conference class at Southeastern Baptist Theological Seminary.
 ---
 
 *The Barnabas Factors: Eight Essential Practices of Church Planting Team Members*. By J. D. Payne.  CreateSpace Independent Publishing Platform, 2012, 176 pp., $9.99 Kindle.

@@ -5,7 +5,7 @@ category: posts
 tag: seminary
 description: "Our first parents gave us an inheritance of physical corruption (physical death) and a nature inclined to sin (leading to spiritual death)."
 keywords: [physical, spiritual, death, Satan, serpent, Adam, Eve]
-context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology II class at Southeastern Baptist Theological Seminary.
+context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology II class at Southeastern Baptist Theological Seminary.
 intro: "God told Adam that if he ate of the tree of the knowledge of good and evil he would die on that day. Explain what this meant."
 prompt: God told Adam that if he ate of the tree of the knowledge of good and evil he would die on that day.  Explain what this meant considering it was hundreds of years following before Adam physically died.
 date: 2014-05-05T08:00-5:00

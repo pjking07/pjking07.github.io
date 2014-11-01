@@ -3,7 +3,7 @@ title: Elder Leadership and Congregational Governance
 layout: post
 category: papers
 tags: [seminary, fbc-durham]
-context: The following partially satisfies the requirements for Dr. Andrew Davis' Pastoral Internship class at Southeastern Baptist Theological Seminary.
+context: The following partially satisfies the requirements for Dr. Andrew Davis' Pastoral Internship class at Southeastern Baptist Theological Seminary.
 description: Congregational governance under multiple-elder leadership was the paradigmatic polity of the New Testament local church and ought to be the standard for local churches today.
 keywords: [congregational, elder, multiple, leadership, polity, new testament, rule, governance]
 date: 2014-05-19T08:00-4:00

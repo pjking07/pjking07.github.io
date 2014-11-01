@@ -5,7 +5,7 @@ category: posts
 tag: seminary
 description: "Jesus did not sin; Jesus would not sin; Jesus refused to sin; and, ultimately, Jesus could not sin, for he cannot deny himself."
 keywords: [Jesus, sin, tempt, opportunity]
-context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology II class at Southeastern Baptist Theological Seminary.
+context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology II class at Southeastern Baptist Theological Seminary.
 intro: Could Jesus have sinned?
 ---
 

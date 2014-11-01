@@ -3,7 +3,7 @@ layout: post
 title: Will Moses Accuse You?
 category: posts
 tag: seminary
-context: The following partially satisfies the requirements for Dr. Steven McKinion's Biblical Hermeneutics class at Southeastern Baptist Theological Seminary.
+context: The following partially satisfies the requirements for Dr. Steven McKinion's Biblical Hermeneutics class at Southeastern Baptist Theological Seminary.
 intro: "What is the meaning and significance of John 5?"
 ---
 

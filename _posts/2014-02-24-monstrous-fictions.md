@@ -5,7 +5,7 @@ category: posts
 tags: [seminary, fbc-durham]
 description: In my own pursuit of knowing God more and articulating my knowledge of him for the perusal of others, I have felt the weight of possibly substituting a monstrous fiction for the real Lord.
 keywords: [Calvin, knowledge, fiction, Lord, God, Institutes]
-context: The following partially satisfies the requirements for Dr. Andrew Davis' Pastoral Internship class at Southeastern Baptist Theological Seminary.
+context: The following partially satisfies the requirements for Dr. Andrew Davis' Pastoral Internship class at Southeastern Baptist Theological Seminary.
 intro:  "<cite>Institutes of the Christian Religion</cite>. By John Calvin. Signalman, 2009, 29683 locations, $0.99 Kindle."
 date: 2014-02-24T08:00-05:00
 ---

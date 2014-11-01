@@ -3,7 +3,7 @@ layout: post
 title: The Trinity and Salvation
 category: posts
 tag: seminary
-context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology I class at Southeastern Baptist Theological Seminary.
+context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology I class at Southeastern Baptist Theological Seminary.
 intro: Can someone be a Christian without believing in the Triune God?
 description: While the noetic minimum of salvific faith is known by God alone, anyone who expressly rejects God as Trinity cannot be affirmed to be a Christian.
 keywords: [Trinity, Christian, Godhead, threeness, Athanasius, creed, "Athanasian Creed"]

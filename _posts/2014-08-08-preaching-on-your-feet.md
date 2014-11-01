@@ -3,7 +3,7 @@ title: "Preaching on Your Feet, by Fred Lybrand"
 layout: post
 category: reviews
 tag: seminary
-context: "The following partially satisfies the requirements for Dr. John Bohannon's Sermon Delivery class at Southeastern Baptist Theological Seminary."
+context: "The following partially satisfies the requirements for Dr. John Bohannon's Sermon Delivery class at Southeastern Baptist Theological Seminary."
 intro: "<cite>Preaching on Your Feet</cite>. By Fred R. Lybrand. Nashville: B&H Academic, 2008, 224 pp., $9.99 Kindle."
 description: "Lybrand confirms his own assertion that preaching on your feet cannot be taught, but must be learned, by offering scant advice on how one can develop into an excellent extemporaneous preacher."
 keywords: [extemporaneous, preaching, "preaching on your feet", "Fred Lybrand", extempore]

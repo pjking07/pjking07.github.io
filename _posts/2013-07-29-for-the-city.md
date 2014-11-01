@@ -3,7 +3,7 @@ layout: post
 title: "For the City, by Darrin Patrick and Matt Carter"
 category: reviews
 tag: seminary
-context: The following partially satisfies the requirements for Dr. Mike Dodson's SEND North America Conference class at Southeastern Baptist Theological Seminary.
+context: The following partially satisfies the requirements for Dr. Mike Dodson's SEND North America Conference class at Southeastern Baptist Theological Seminary.
 ---
 
 *For the City: Proclaiming and Living Out the Gospel*. By Darrin Patrick and Matt Carter. Zondervan, 2010, 193 pp.,  $6.64 Kindle.

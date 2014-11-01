@@ -6,7 +6,7 @@ tag: seminary
 description: Adam was made from dust to be the human father of mankind. Only by the universal fatherhood of Adam can we share in the brotherhood of Christ and be reconciled with our heavenly Father.
 keywords: [Adam, dust, create, father, mankind, sin, salvation]
 intro: What is the significance of Adam being made from the dust of the earth?
-context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology I class at Southeastern Baptist Theological Seminary.
+context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology I class at Southeastern Baptist Theological Seminary.
 date: 2014-04-23T08:00-5:00
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "Follow the Real Jesus (Mark 8:27–38)"
 category: sermons
 tag: seminary
-context: "The following partially satisfies the requirements for Dr. John Bohannon's Sermon Delivery class at Southeastern Baptist Theological Seminary."
+context: "The following partially satisfies the requirements for Dr. John Bohannon's Sermon Delivery class at Southeastern Baptist Theological Seminary."
 intro: "This sermon was delivered on July 31, 2014."
 description: "Even as Jesus the Christ suffered and died for our sake, so also we must die to self and suffer for Jesus' sake."
 keywords: [suffer, die, messiah]

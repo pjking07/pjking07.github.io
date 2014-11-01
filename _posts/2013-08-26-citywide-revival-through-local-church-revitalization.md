@@ -3,7 +3,7 @@ layout: post
 title: Citywide Revival through Local Church Revitalization
 category: papers
 tag: seminary
-context: The following partially satisfies the requirements for Dr. Mike Dodson's SEND North America Conference class at Southeastern Baptist Theological Seminary.
+context: The following partially satisfies the requirements for Dr. Mike Dodson's SEND North America Conference class at Southeastern Baptist Theological Seminary.
 ---
 
 # Introduction

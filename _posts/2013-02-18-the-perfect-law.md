@@ -4,7 +4,7 @@ title: The Perfect Law
 category: posts
 tag: seminary
 description: "Psalm 19 shows that the glory of God in creation has revealed the knowledge of God to all people who are thus required to fulfill God's good and perfect law."
-context: The following partially satisfies the requirements for Dr. Steven McKinion's Biblical Hermeneutics class at Southeastern Baptist Theological Seminary.
+context: The following partially satisfies the requirements for Dr. Steven McKinion's Biblical Hermeneutics class at Southeastern Baptist Theological Seminary.
 intro: "What is the meaning and significance of Psalm 19?"
 keywords: [righteous, law, Psalm, Romans, "knowledge of God", knowledge]
 date: 2013-02-18T08:00-05:00

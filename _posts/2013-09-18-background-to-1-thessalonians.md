@@ -3,7 +3,7 @@ layout: post
 title: Background to 1 Thessalonians
 category: posts
 tag: seminary
-context: The following partially satisfies the requirements for Dr. Tony Merida's Bible Exposition class at Southeastern Baptist Theological Seminary.
+context: The following partially satisfies the requirements for Dr. Tony Merida's Bible Exposition class at Southeastern Baptist Theological Seminary.
 ---
 
 What is commonly known as *Paul's First Epistle to the Thessalonians* was actually sent by Paul, Silvanus (a.k.a. Silas), and Timothy. Paul needs no introduction and much is known about Timothy from his interaction with Paul throughout the New Testament, especially in Acts and 1 & 2 Timothy. Timothy was part of Paul's apostolic band of missionaries and church planters and eventually was sent as the apostolic delegate to the church at Ephesus. Silvanus had a significant role in the early church as well. He penned 1 Peter, was regarded by Peter as a "faithful brother" (1 Pet. 5:12), and was considered a leader among the brethren in Jerusalem (Acts 15:22). Silvanus participated in missionary journeys as well, including trips to Antioch, Philippi, Thessalonica, and Corinth.

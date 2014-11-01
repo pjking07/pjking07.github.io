@@ -4,7 +4,7 @@ title: "Record or Revelation?"
 category: posts
 tag: seminary
 description: "The purpose of Scripture is not to recreate historical events, historical though they are, but to reveal God to the saints for the ages."
-context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology I class at Southeastern Baptist Theological Seminary.
+context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology I class at Southeastern Baptist Theological Seminary.
 intro: "Is the Bible the record of revelation or is it the revelation of God?"
 keywords: [theology, revelation, Bible, Scripture]
 ---

@@ -3,7 +3,7 @@ title: A Summary of Church Discipline
 layout: post
 category: posts
 tags: [seminary, fbc-durham]
-context: The following partially satisfies the requirements for Dr. Andrew Davis' Pastoral Internship class at Southeastern Baptist Theological Seminary.
+context: The following partially satisfies the requirements for Dr. Andrew Davis' Pastoral Internship class at Southeastern Baptist Theological Seminary.
 intro: "<i><a href='http://www.9marks.org/files/Polity.pdf'>Polity: A Collection of Historic Baptist Documents</a></i>. Edited by Mark Dever. Sheridan Books, 2001, 586 pp."
 description: "Many churches would greatly benefit from their ministers, deacons, and members being exposed to this historic summary of church practices."
 keywords: [church discipline, document, gospel, ecclesiology]

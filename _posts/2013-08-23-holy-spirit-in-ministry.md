@@ -3,7 +3,7 @@ layout: post
 title: Holy Spirit in Ministry
 category: posts
 tag: seminary
-context: The following partially satisfies the requirements for Dr. Stephen Eccher's Christian Theology III class at Southeastern Baptist Theological Seminary.
+context: The following partially satisfies the requirements for Dr. Stephen Eccher's Christian Theology III class at Southeastern Baptist Theological Seminary.
 ---
 
 The Holy Spirit's presence is requisite for the regenerate church, therefore, he is active in all the ministries of the church. In the ministry of evangelism, the Lord adds to his church through regeneration by the power of the Spirit. Because of the regeneration of believers, the church's evangelistic witness must include the demonstration of a Spirit-transformed life. The church shares the faith and proclaims the Gospel, but only the Spirit converts the unregenerate.

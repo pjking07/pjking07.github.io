@@ -5,7 +5,7 @@ date: 2013-12-16
 comments: false
 category: papers
 tags: seminary
-context: The following partially satisfies the requirements for Dr. Beck's New Testament Introduction class at Southeastern Baptist Theological Seminary.
+context: The following partially satisfies the requirements for Dr. Beck's New Testament Introduction class at Southeastern Baptist Theological Seminary.
 ---
 
 # Introduction

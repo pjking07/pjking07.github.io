@@ -6,7 +6,7 @@ tags: [seminary, fbc-durham]
 image:
     feature: /reviews/humility.jpg
 description: "C. J. Mahaney's _Humility_ offers practical advice that can be utilized by every Christian to do the hard work of moving toward humility."
-context: The following partially satisfies the requirements for Dr. Andrew Davis' Pastoral Internship class at Southeastern Baptist Theological Seminary.
+context: The following partially satisfies the requirements for Dr. Andrew Davis' Pastoral Internship class at Southeastern Baptist Theological Seminary.
 intro: "<cite>Humility: True Greatness</cite>. By C. J. Mahaney. Multnomah, 2005, 176 pp., $11.85."
 keywords: ["C. J. Mahaney", Humilty, "book review", practical, correction, criticism, struggle]
 rating: "4 / 5"
