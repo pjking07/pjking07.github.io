@@ -7,7 +7,7 @@ context: "The following partially satisfies the requirements for Dr. Nathan Fin
 intro: "Provide a theological rationale for your ecclesiastical identity."
 description: "Raised in a proud Southern Baptist home, I am increasingly convinced of the ecclesiastical and hermeneutical superiority of my inherited tradition."
 keywords: [baptist, ecclesial, "Southern Baptist", baptism, membership, congregationalism, word-driven]
-published: true
+published: false
 ---
 
 My Life as a Baptist
