@@ -311,13 +311,14 @@
 @media only screen and (min-width: 680px) {
     .article .featured-image {
         max-height: 400px;
-        //height: 400px;
+        height: 400px;
     }
 }
 
 @media only screen and (min-height: 1000px) {
     .article .featured-image {
         max-height: 640px;
-        //height: 640px;
+        height: 640px;
     }
 }
+
