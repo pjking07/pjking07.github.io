@@ -11,8 +11,7 @@ buy:
 image:
     feature: /reviews/the-church.jpg
 description: "Dever generally succeeds at his goal of providing an accessible primer on the doctrine of the church regardless of the reader's denominational identity."
-keywords: ["Mark Dever", church, ecclesiology, 9marks]
-published: false
+keywords: ["Mark Dever", church, ecclesiology, 9marks, theology, Baptist]
 ---
 
 Mark Dever's _The Church_ is an expansion of a chapter he previously contributed to Danny Akin's systematic theology textbook, _A Theology for the Church_. This work is distinguished from typical 9Marks publications in that its scope is broader, its tone more formal, and its content more academic. Although Dever explains the theological nature of all local churches, he unabashedly shows his roots by arguing for his particular vision of the church. While pastors and theologians of all ecclesiastical backgrounds can benefit from Dever's work, _The Church_ was originally written for a Baptist theological textbook by a Baptist pastor-theologian to promote a distinct Baptist ecclesiology.
