@@ -12,7 +12,7 @@ keywords: ["Southeastern Baptist Theological Seminary", "SEBTS", "Southwestern B
 
 ---
 
-Having felt an earnest call to ministry since college, I have been preparing for both foreign missions and domestic church ministry through internship opportunities, academic study, voracious reading, intense dialog, and a foray into electronic publishing while simultaneously pursuing a career in software development. Although my primary focus has been church health, including church planting and church strengthening, I have also been gifted in personal counseling and have experience in adoption ministry. I hope to transition into vocational ministry upon completion of my M.Div. 
+Having felt an earnest call to ministry since college, I have been preparing for both foreign missions and domestic church ministry through internship opportunities, academic study, voracious reading, intense dialog, and a foray into electronic publishing while simultaneously pursuing a career in software development. Although my primary focus has been church health, including church planting and church strengthening, I have also been gifted in personal counseling and have experience in adoption ministry. I hope to transition into pastoral ministry upon completion of my M.Div. 
 
 I affirm the [Abstract of Principles](http://www.sbts.edu/documents/abstract.pdf),[^ap] the [Baptist Faith and Message 2000](http://www.sbc.net/bfm/bfm2000.asp), the [Chicago Statement on Biblical Inerrancy](http://www.sebts.edu/files/chicago-statement-on-biblical-inerrancy.pdf), and the [Danvers Statement on Biblical Manhood and Womanhood](http://cbmw.org/uncategorized/the-danvers-statement/).
 
