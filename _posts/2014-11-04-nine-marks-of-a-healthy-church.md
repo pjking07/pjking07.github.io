@@ -12,7 +12,6 @@ image:
     feature: /reviews/nine-marks-rev.jpg
 description: "Mark Dever's _Nine Marks of a Healthy Church_ will surely continue to provide a biblical foundation for pastors and churches that wish to grow in ecclesiastical health for years to come."
 keywords: ["Mark Dever", "Nine Marks", 9Marks, ecclesiology, church, "church health"]
-published: false
 ---
 
 _Nine Marks of a Healthy Church_ is Mark Dever's seminal work on contemporary church health, borne out of his reforming efforts at Capitol Hill Baptist Church. As such, the book is a mere introduction to the view of church health Dever and his compatriots have more thoroughly articulated in numerous books and journals over the past decade. Indeed, the influence of this book and Dever's subsequent writings has firmly established the author and his church's resulting ministry, 9Marks Ministries, as preeminent voices in ecclesiology.
