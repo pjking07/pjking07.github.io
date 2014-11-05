@@ -12,7 +12,6 @@ image:
     feature: /reviews/deliberate-church.jpg
 description: "This book does not provide pastors with quick fixes, sure-fire programs, or pre-baked solutions. Instead, it uses the regulative principle to exhort its readers to seek God and his design for the local church as revealed in Scripture."
 keywords: ["Mark Dever", "Paul Alexander", "Deliberate Church", church, ecclesiology, 9marks, "church health"]
-published: false
 ---
 
 Mark Dever and Paul Alexander write _The Deliberate Church_ in order to communicate "a vision of a whole church deliberately ordered and led so as to facilitate its own edification and ministry" (202). The sequel to the theological and conceptual _Nine Marks of a Healthy Church_, this book is extremely practical. Instead of structuring _The Deliberate Church_ around the nine marks from Dever's seminal work, though, the authors catalog the advice Dever often dispenses to visiting pastors. Hence, Dever and Alexander orient their book around the functional expressions of the gathered church. They offer numerous nuggets of insight in various sections, namely, "Gathering the Church", "When the Church Gathers", "Gathering Elders", and "When the Elders Gather". Their advice covers topics ranging from removal of members to installation of elders, from musical worship to members' meetings, and from personal discipleship to pastoral staffing.
