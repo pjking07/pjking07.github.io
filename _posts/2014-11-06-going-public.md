@@ -12,7 +12,6 @@ image:
     feature:
 description: "While the focus of _Going Public_ is open- vs. closed-membership, Jamieson's work necessarily delves into Baptist discussions concerning paedobaptism, open-communion, church membership, and the constitution of a church."
 keywords: ["Bobby Jamieson", "Going Public", baptism, communion, membership, ecclesiology, "open-membership", "closed-membership", "open-communion", "closed-communion"]
-published: false
 ---
 
 In his forthcoming book, _Going Public_, Bobby Jamieson constructs an argument for why baptism should be required for church membership. In particular, Jamieson weighs in on the perennial intra-Baptist debate concerning open-membership---that is, should Christians "baptized" only as infants be granted membership into Baptist churches, or must such candidates first be baptized as believers? Jamieson writes, "This whole book aims toward the conclusion that churches should require prospective members to be baptized---which is to say, baptized as believers---in order to join" (1). In fact, the author decided to write a book on this topic because "[open-membership] is a pressing question for many pastors and churches, and I think there's a biblical way to answer it" (10). Through this book, Jamieson rebuilds the "ecclesiological foundations that the acid rain of individualism has burned away" (14). He excels at accomplishing his purpose by constructing a positive theology of baptism while also establishing its relationship to the church, membership, and the Lord's Supper.
