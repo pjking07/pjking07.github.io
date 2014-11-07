@@ -12,7 +12,6 @@ image:
     feature: /reviews/church-and-the-surprising-offense-of-gods-love.jpg
 description: "Jonathan Leeman serves the church well by identifying the modern misconceptions of love and providing a righteous redefinition that Christ's church ought to reflect."
 keywords: ["Jonathan Leeman", 9Marks, "church health", church, ecclesiology, love, God, membership, discipline]
-published: false
 ---
 
 The local church publicly exercises godly love through the institutions of membership and discipline. This is the thrust of Jonathan Leeman's inaugural book, a comprehensive treatise detailing the nature of God's love and its direct impact on the life and polity of the church. After the author deconstructs the contemporary, Western understanding of love—which he sees as rooted in individualism, consumerism, skepticism, and more—he defends his thesis by reconstructing the biblical definition of godly love and expounding upon love's implications for the church in the form of meaningful membership and effective discipline. Leeman's argument is captured in his statement that true love is "the lover's affirmation of and affection for the beloved and the beloved's good in the Holy" (108).
