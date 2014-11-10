@@ -12,7 +12,6 @@ image:
     feature: /reviews/church-membership.jpg
 description: "Overall, Leeman's fresh approach to local church membership ought to convince many evangelicals, especially Baptists, of the cosmic significance of that membership."
 keywords: ["Jonathan Leeman", "church membership", "church health", ecclesiology, 9Marks, church]
-published: false
 ---
 
 Jonathan Leeman continues to gain credibility as an authority on local church membership through the pithy _Church Membership_,  his first contribution to the 9Marks: Building Healthy Churches series. Leeman writes to convince ambivalent evangelicals of the importance of local church membership by showing that earthly church  membership is representative of citizenship in the kingdom of heaven. He argues that Jesus passed the apostolic keys to local churches; therefore, Christian churches function as embassies of heaven, officially recognizing on earth those who are citizens of heaven. Thus, God has authorized the local church to represent heaven on earth---to speak for God himself.
