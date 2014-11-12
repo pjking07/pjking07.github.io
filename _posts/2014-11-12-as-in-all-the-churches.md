@@ -7,7 +7,6 @@ context: "The following partially satisfies the requirements for Dr. Jonathan L
 intro: '"As in All the Churches of the Saints: The Consistency and Normativity of New Testament Patterns of Church Polity." By Robert B. Jamieson, III. Class paper, Southern Baptist Theological Seminary, 2010.'
 description: "By addressing the normative pattern of New Testament polity, Robert Jamieson significantly enhances the argument for congregationally governed, elder led, deacon served, autonomous local churches as the biblical prescription for today's churches."
 keywords: ["Bobby Jamieson", church, normative, "New Testament", Scripture, hermeneutic, polity]
-published: false
 ---
 
 A version of Bobby Jamieson's paper can be accessed at [9Marks.org]( http://9marks.org/article/journalall-churches-saints-why-new-testament-polity-prescriptive/).
