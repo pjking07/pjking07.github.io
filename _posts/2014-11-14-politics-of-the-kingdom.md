@@ -12,6 +12,7 @@ image:
     feature:
 description: "If it is reorganized, Leeman's contribution will greatly enhance the Baptist understanding of the nature of the local church."
 keywords: ["Jonathan Leeman", 9Marks, "A Political Assembly", "keys of the kingdom", ecclesiology, congregation, embassy]
+published: false
 ---
 
 In his forthcoming book, _A Political Assembly_, Jonathan Leeman explicates the analogy for the church he has been developing for the last few years: the local church as a heavenly embassy. While the author has introduced this embassorial analogy in other works, this book is his first monograph dedicated to the subject. According to Leeman, the majority of the book prepares the reader for his "actual argument", contained in the final chapter, "The Politics of the Kingdom." Leeman writes to convince his readers that "the local church and its members constitute a political community" whose purpose "is to publicly represent King Jesus, display the justice and righteousness of the Triune God, and pronounce that all the world belongs to this king." Leeman progresses his argument by describing the eschatological assembly (universal church) as a political assembly, and by "demonstrating that this political assembly is manifested . . . through the exercise of the keys of the kingdom."
