@@ -7,7 +7,6 @@ context: "The following partially satisfies the requirements for Dr. Jonathan L
 intro: '"Theological Critique of Multi-Site: What Exactly Is a Church?" By Jonathan Leeman. <cite>9Marks Journal</cite>. May-June 2009. <a href="http://9marks.org/article/theological-critique-multi-site-what-exactly-church/">http://9marks.org/article/theological-critique-multi-site-what-exactly-church/</a>.'
 description: "Leeman's article succeeds in its purpose of critiquing the multi-site model. While the article may convince those who were previously uncommitted to a position, it may not persuade those who already hold to the multi-site model."
 keywords: ["Jonathan Leeman", "Theological Critique of Multi-Site", multi-site, ecclesiology, polity]
-published: false
 ---
 
 In "Theological Critique of Multi-Site: What Exactly Is a 'Church'?" an article for the bimonthly _9Marks Journal_, Jonathan Leeman addresses his concerns with the  multi-site and multi-service models of the local church. This multi movement has been growing for decades as technology and pastoral celebrity have given churches both the means and motivation to consolidate multiple gatherings into one corporation, under one set of leaders, and with one preaching pastor. Leeman contends that a multi-site church is not one church; rather, it is several incorporated churches. The author's position against the multi-site and multi-service models is rooted in his definition of a church, requiring it be one gathered body.
