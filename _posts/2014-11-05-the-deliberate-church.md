@@ -1,5 +1,5 @@
 ---
-title: "The Deliberate Church, by Mark Dever"
+title: "The Deliberate Church, by Mark Dever and Paul Alexander"
 layout: post
 category: reviews
 tag: seminary
