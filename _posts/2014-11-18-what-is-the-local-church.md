@@ -7,7 +7,6 @@ context: "The following partially satisfies the requirements for Dr. Jonathan L
 intro: "What is the local church?"
 description: "A local church is a group of gospel-believers that periodically gather in the name of Jesus in order to proclaim the gospel and exercise the keys of the kingdom of heaven."
 keywords: ["local church", ecumenical, parachurch, heresy, gospel, ecclesiology, gospel, bind, loose, "keys of the kingdom"]
-published: false
 ---
 
 In order to answer adequately the question, "What is the local church?" one ought to accommodate at least three restrictions. First, one's definition must not allow for any heretical groups who wrongly claim the name of Christ, such as Mormons and Jehovah's Witnesses. Second, one's definition ought not to include groups of Christians that are distinctly not churches---namely, parachurch organizations. Third, one's definition ought to affirm all Christian churches as churches, despite any deficiencies in the practice of the marks of a church. In sum, I will attempt to make my definition broad enough to be ecumenical yet narrow enough to reject non-churches and heretical groups.
