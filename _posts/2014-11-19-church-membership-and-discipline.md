@@ -7,7 +7,6 @@ context: "The following partially satisfies the requirements for Dr. Jonathan L
 intro: "Why is carefully practicing church membership and discipline critical to the growth of the saints and the evangelism of the church?"
 description: "The gospel of Jesus Christ is marred when a church wrongly affirms non-Christians as members or rejects Christians as non-members. Therefore, a local church must protect the name of Jesus by affirming Christians, and only Christians, as members of Christ's body."
 keywords: [church, membership, discipline, "keys of the kingdom", bind, loose, gospel, evangelism]
-published: false
 ---
 
 A church cannot be constituted without its membership. In fact, church membership has existed since the birth of the church. After the ascension of Christ, the disciples, who numbered 120, were all acting "with one accord" and "devoting themselves to prayer" (Acts 1:14).[^esv] After the coming of the Holy Spirit, Peter preached his Pentecost sermon, after which "those who received his word were baptized, and there were added that day about three thousand souls" (Acts 2:41). In the largest prospective members' class of all time, 3,000 souls heard the gospel, believed the gospel, were baptized, and were _added_ to the membership of the church.
