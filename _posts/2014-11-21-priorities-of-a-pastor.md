@@ -7,7 +7,6 @@ context: "The following partially satisfies the requirements for Dr. Jonathan L
 intro: "What are several of the most important things a pastor must give attention to and why?"
 description: [summary]
 keywords: [pastor, church, train, teach, example]
-published: false
 ---
 
 Jesus has given pastors to the church in order "to equip the saints for the work of ministry, for building up the body of Christ, until we all attain to the unity of the faith and of the knowledge of the Son of God" (Eph. 4:12--13). Therefore, a pastor's work must be oriented around equipping Christians for ministry. Similarly, in his first epistle to Timothy, Paul instructs his disciple in how to "be a good servant of Christ Jesus" for the sake of the church (1 Tim. 4:6--16).[^esv] Although Timothy was not strictly an elder at the church in Ephesus, Paul's instructions to his apostolic delegate reinforce this foundation for pastoral ministry.
