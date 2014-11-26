@@ -12,7 +12,6 @@ image:
     feature: /reviews/drama-of-scripture.jpg
 description: "_The Drama of Scripture_ is a compelling introductory narrative of the Bible. Bartholomew and Goheen succeed in their goal of explaining that Scripture is the true story of God in the world."
 keywords: ["Craig Bartholomew", "Michael Goheen", Bible, Scripture, drama, story, narrative, introduction, "book review"]
-published: false
 ---
 
 Craig Bartholomew and Michael Goheen write _The Drama of Scripture_ in order to introduce readers to the narrative of the Bible. Conceived as a textbook for a freshman-level university course in biblical theology, this book retells the contents of the Bible as one cohesive and coherent narrative. Thus, it introduces readers to both the content of the Bible and the particular interpretation of the text as a drama.
