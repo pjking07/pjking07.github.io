@@ -6,7 +6,7 @@ tag: seminary
 context: "The following partially satisfies the requirements for Dr. Alvin Reid's Crossover Baltimore class at Southeastern Baptist Theological Seminary."
 tags: [Baltimore, Crossover, Freedom, evangelize]
 description: "We shared the Gospel and encouraged the saints."
-date: 2014-06-04T23:00-4:00
+ 
 ---
 
 Today was a great day. In the morning, Dr. [Thomas Johnston](http://www.evangelizology.com/) of Midwestern Baptist Theological Seminary taught us to unleash the word "evangelize". While the Greek word evangelize is often translated as preach in our English translations, "preach" has a different denotation than "evangelize". This alternative translation of "evangelize" as "preach" puts the gospel "on house arrest within the four walls of the church." Whereas some are called to preach, all are called to evangelize. However, there is no limit on those who ought to evangelize in the church---it is an every member gift and responsibility!

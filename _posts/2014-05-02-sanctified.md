@@ -7,7 +7,7 @@ description: "Sanctification, the progressive growth in holiness offers the Chur
 keywords: [justify, sanctify, glorify]
 context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology II class at Southeaster Baptist Theological Seminary.
 intro: "What does it mean to be 'sanctified'?"
-date: 2014-05-02T08:00-5:00
+ 
 ---
 
 The word group *sanctus* (holy) is used in Christian language to denote three core concepts: (1) "sanctity" describes something that is holy or of ultimate importance, (2) "to sanctify" is to set something apart as holy, and (3) "sanctification" represents the process of sanctifying someone or something. Sanctity is a concept that is threaded throughout the Christian Scriptures. God sanctified by his glory the tent of meeting (Ex. 29:43). The Lord sanctifies Israel and all who keep his statutes (Ex. 31:13; Lev. 20:8). Even the LORD sanctifies himself (Lev. 10:3). Isaiah prophesies that the children of Jacob will sanctify the name of the Lord and the Holy One of Jacob (Isaiah 29:23). 

@@ -7,7 +7,7 @@ description: The narrative of Abraham nearly sacrificing his son Isaac foreshado
 keywords: [Sacrifice, Abraham, God, Genesis, Isaac, Jesus]
 context: The following partially satisfies the requirements for Dr. Steven McKinion's Biblical Hermeneutics class at Southeastern Baptist Theological Seminary.
 intro: "What is the meaning and significance of Genesis 22:1–19?"
-date: 2013-02-01T08:00-05:00
+ 
 ---
 
 <cite class='bibleref' title='Genesis 22'>Genesis 22</cite> narrates the story of Abraham obeying God by nearly sacrificing his son Isaac. After Abraham’s faith was tested true, the Lord provided Abraham with a ram as a substitutionary sacrifice. This narrative also foreshadows God the Father providing and sacrificing his own Son as a substitutionary sacrifice for all believers.

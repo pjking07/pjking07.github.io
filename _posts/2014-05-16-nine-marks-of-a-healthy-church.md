@@ -12,7 +12,7 @@ image:
     feature: /reviews/nine-marks-rev.jpg
 description: "The following is a collection of weekly, chapter-by-chapter reflection essays interacting with this influential book. Despite any quibbling, I continue to be blessed by the work of Mark Dever and the ministry of 9Marks."
 keywords: [9Marks, "Nine Marks of a Healthy Church", "Mark Dever",  evangelism, gospel, polity, church]
-date: 2014-05-16T8:00-4:00
+ 
 ---
 
 *The following is a collection of weekly, chapter-by-chapter reflection essays interacting with this influential book.*

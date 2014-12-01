@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Master Plan of Evangelism, by Robert E. Coleman"
-date: 2013-12-03
+ 
 comments: false
 category: reviews
 tags: seminary

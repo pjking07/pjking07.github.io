@@ -7,7 +7,7 @@ context: "The following partially satisfies the requirements for Dr. John Bohan
 intro: "This sermon was delivered on July 31, 2014."
 description: "Even as Jesus the Christ suffered and died for our sake, so also we must die to self and suffer for Jesus' sake."
 keywords: [suffer, die, messiah]
-date: 2014-07-31T08:00-4:00
+ 
 published: true
 ---
 

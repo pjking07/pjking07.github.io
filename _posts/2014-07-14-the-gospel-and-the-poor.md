@@ -7,7 +7,7 @@ description: "Extending mercy is acting out of compassion for those in need; doi
 keywords: [poor, gospel, justice, mercy, Tim Keller]
 context: The following partially satisifies the requirements for Dr. Andrew Davis' Pastoral Internship class at Southeastern Baptist Theological Seminary.
 intro: "<cite><a href='http://www.togetherforadoption.org/wp-content/media/thegospelandthepooroutline.pdf'>The Gospel and the Poor</a></cite>. By Tim Keller. Summer, 2009, 19 pp., PDF."
-date: 2014-07-14T08:00-4:00
+ 
 published: true
 ---
 

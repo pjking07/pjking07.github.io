@@ -7,7 +7,7 @@ description: The end of Christian theology is a life of spiritual formation. God
 keywords: ["christian theology", spiritual, formation, think, speak, live]
 context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology I class at Southeastern Baptist Theological Seminary.
 intro: What is the intended outcome of doing Christian theology?
-date: 2014-04-18T08:00-5:00
+ 
 ---
 
 The end of Christian theology is a life of spiritual formation. God's ultimate work is making a people for himself in the form of himself. We study Scripture so that we may know God. We participate in Christian theology so that we may (1) think rightly about God, (2) speak rightly about God, and (3) live rightly before God. 

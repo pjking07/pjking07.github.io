@@ -7,7 +7,7 @@ description: Adam was made from dust to be the human father of mankind. Only by 
 keywords: [Adam, dust, create, father, mankind, sin, salvation]
 intro: What is the significance of Adam being made from the dust of the earth?
 context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology I class at Southeastern Baptist Theological Seminary.
-date: 2014-04-23T08:00-5:00
+ 
 ---
 
 In Genesis 2:7, we find that "the LORD God formed the man of dust from the ground and breathed into his nostrils the breath of life, and the man became a living creature." To one unfamiliar with the Christian creation narrative, it might see odd that we claim the first man was created out of dust. Even so, Adam's beginning from the dust of the earth is significant for Christian theology and for our salvation. 

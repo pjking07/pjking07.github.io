@@ -7,7 +7,7 @@ context: "The following partially satisfies the requirements for Dr. John Bohan
 intro: "This sermon was delivered on July 29, 2014 and is a derivative of a longer <a href='/lessons/earnestly-i-seek-you/' target='blank'>sermon manuscript</a>."
 description: "Though you may be weary and heavy laden, seek God, praise him, cling to him, and trust him for your ultimate deliverance in Christ Jesus."
 keywords: [seek, praise, cling, trust, deliverance]
-date: 2014-07-29T08:00-4:00
+ 
 published: true
 ---
 

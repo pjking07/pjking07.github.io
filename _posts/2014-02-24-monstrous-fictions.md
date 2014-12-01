@@ -7,7 +7,7 @@ description: In my own pursuit of knowing God more and articulating my knowledge
 keywords: [Calvin, knowledge, fiction, Lord, God, Institutes]
 context: The following partially satisfies the requirements for Dr. Andrew Davis' Pastoral Internship class at Southeastern Baptist Theological Seminary.
 intro:  "<cite>Institutes of the Christian Religion</cite>. By John Calvin. Signalman, 2009, 29683 locations, $0.99 Kindle."
-date: 2014-02-24T08:00-05:00
+ 
 ---
 
 When reading John Calvin's *Institutes of the Christian Religion*, one has the opportunity to participate in a thorough biblical theology. The first five chapters of the first book of the *Institutes* begin Calvin's treatise on the knowledge of God, detailing the natural revelation of God to man and mankind's own stifling of such knowledge by sin. However, such a short read only begins to touch on Calvin's theological text.

@@ -7,7 +7,7 @@ context: The following partially satisfies the requirements for Dr. Andrew Davi
 intro: "<i><a href='http://www.9marks.org/files/Polity.pdf'>Polity: A Collection of Historic Baptist Documents</a></i>. Edited by Mark Dever. Sheridan Books, 2001, 586 pp."
 description: "Many churches would greatly benefit from their ministers, deacons, and members being exposed to this historic summary of church practices."
 keywords: [church discipline, document, gospel, ecclesiology]
-date: 2014-07-09T08:00-4:00
+ 
 ---
 
 "A Summary of Church Discipline: Shewing the Qualifications and Duties of the Officers and Members of a Gospel Church" was a document published by the Baptist Association of Charleston, South Carolina in 1774. The summary was "designed chiefly for the benefit of the poor and unlearned" and claimed to be written in "the plainest language" (p. 117). However, this document is not concerned with church discipline in the narrow sense, but in establishing expectations for ministers and members within local churches.

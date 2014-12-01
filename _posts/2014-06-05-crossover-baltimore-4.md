@@ -6,7 +6,7 @@ tag: seminary
 context: "The following partially satisfies the requirements for Dr. Alvin Reid's Crossover Baltimore class at Southeastern Baptist Theological Seminary."
 tags: [Baltimore, Crossover, Freedom, evangelize]
 description: "Today saw little fruit, but we were faithful to the task and God is still at work."
-date: 2014-06-05T23:00-4:00
+ 
 ---
 
 Brandon Kiesling, a PhD student at Southwestern Baptist Theological Seminary, spoke this morning on a biblical philosophy of evangelism. This guy was fired up. He introduced himself with his own testimony of being a former meth addict, maker, and dealer. However, he was saved by grace through faith after a judge extended him mercy when he was otherwise facing 15 years. The power of the message of the gospel changes dealers into disciples! Following his testimony, Brandon went through Matt Queen's [eight questions](http://pastors.com/8-questions-to-assess-your-evangelism/) for a biblical philosophy of evangelism. 

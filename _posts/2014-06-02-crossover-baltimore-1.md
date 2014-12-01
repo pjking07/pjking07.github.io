@@ -6,7 +6,7 @@ tag: seminary
 context: "The following partially satisfies the requirements for Dr. Alvin Reid's Crossover Baltimore class at Southeastern Baptist Theological Seminary."
 tags: [Baltimore, Crossover, Freedom]
 description: "I've had a great first day on the Crossover Baltimore evangelistic trip."
-date: 2014-06-02T18:00-4:00
+ 
 ---
 
 Today followed the standard format for this upcoming week: breakfast on campus, time in the lecture hall, lunch on campus, work with churches, then a free evening. During breakfast it was clear that the summer cafeteria staff was ill-prepared to serve ~200 hungry and caffeine-addicted Baptists. From overhearing the staff, it was clear that they had no knowledge of the impending influx we caused. However, I was glad to hear no complaining from the seminary students and staff---only kind and affirming words. Overall, our host university has been serving us well and we are greatful for their service.

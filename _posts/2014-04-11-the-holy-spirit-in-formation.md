@@ -7,7 +7,7 @@ description: The Holy Spirit unites us with God and empowers us mere mortals to 
 keywords: [Holy Spirit, salvation, indwell, formation, sanctification, incarnation, Jew, Christian]
 intro: What role does the Holy Spirit play in Christian formation?
 context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology II class at Southeastern Baptist Theological Seminary.
-date: 2014-04-11T08:00-5:00
+ 
 ---
 
 The role of the Holy Spirit with believers radically changed at Pentecost, when the Spirit came to indwell the early disciples of Jesus. From this point on, all who believe in the Lord Jesus receive the indwelling Spirit as a seal for the future and power for today. However, the faithful Jews living for generations prior to Pentecost and the Incarnation were not privileged to live with the indwelling of the Spirit. Considering the inception of the indwelling Spirit at Pentecost, one may wonder, what role does the Holy Spirit play in Christian formation?

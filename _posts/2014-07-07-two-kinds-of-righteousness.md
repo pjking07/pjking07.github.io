@@ -7,7 +7,7 @@ description: "Luther's writing on righteousness distinguishes between two types:
 keywords: [Luther, righteousness, Christ, death, love]
 context: The following partially satisifies the requirements for Dr. Andrew Davis' Pastoral Internship class through Southeastern Baptist Theological Seminary.
 intro: '"<a href="http://www.mcm.edu/~eppleyd/luther.html">Two Kinds of Righteousness</a>." By Martin Luther.'
-date: 2014-07-07T08:00-4:00
+ 
 ---
 
 Luther's writing on righteousness distinguishes between two types: alien righteousness, which is instilled from without, and proper righteousness, which is worked out from alien righteousness. Luther contends that our original righteousness was lost in Adam but can be replaced by Christ's own righteousness. In particular, this alien righteousness is progressive and not perfected until death. Out of this alien righteousness, "you should be as inclined and disposed toward one another as you see Christ was disposed toward you" (10). 

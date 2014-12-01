@@ -7,7 +7,7 @@ context: The following partially satisfies the requirements for Dr. Steven McKi
 intro: "What is the meaning and significance of Psalm 103?"
 description: "Psalm 103 reminds us to bless the LORD for all he has done for his covenant people, his children, which we know was fully accomplished in the work of Jesus Christ, the Son of God."
 keywords: [exhort, covenant, soul, psalm, "Psalm 103", bless]
-date: 2013-02-25T08:00-5:00
+ 
 ---
 
 <cite class='bibleref' title='Psalm 103'>Psalm 103</cite> is primarily a song of exhortation for the covenant children of God to bless the LORD with all their soul. As the psalm declares, this blessing is motivated by all the good the LORD has done for his covenant people by showing mercy and grace to those who remember his commandments (<cite class='bibleref' title='Psalm 103:2-14'>vv. 2-14</cite>). The Psalmist then contemplates man's finite life in comparison to the eternal LORD (<cite class='bibleref' title='Psalm 103:15-18'>vv. 15-18</cite>). Finally, the Psalmist exhorts all of God's creation to bless the LORD because he "has established his throne in the heavens, and his kingdom rules over all" (<cite class='bibleref' title='Psalm 103:19-22'>vv. 19-22</cite>).

@@ -7,7 +7,7 @@ description: "This divine knowledge is not new revelation, but is the affirmatio
 keywords: [divine, knowledge, conversion, edwards, "Matthew 16:17"]
 context: The following partially satisfies the requirements for Dr. Andrew Davis' Pastoral Internship class at Southeastern Baptist Theological Seminary.
 intro: "<cite>A Divine and Supernatural Light</cite>. Sermon by Jonathan Edwards."
-date: 2014-03-17T08:00-5:00
+ 
 ---
 
 In his historic sermon, Jonathan Edwards launches from Matthew 16:17 to argue that true knowledge of God, a divine and supernatural light, is immediately imparted to the soul by the Spirit of God. Specifically, Edwards' thesis reads, "That there is such a thing as a spiritual and divine light immediately imparted to the soul by God, of a different nature from any that is obtained by natural means." Although God is the author of all knowledge, natural knowledge may be learned by natural means by the gift of common grace, while spiritual knowledge must be divinely imparted by particular grace. 

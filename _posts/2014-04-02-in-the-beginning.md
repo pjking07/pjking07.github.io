@@ -7,7 +7,7 @@ description: We must begin the gospel story with the Creator God and the creatio
 keywords: [beginning, create, Genesis, creator, creation, Loki, Aslan, Narnia]
 context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology I class at Southeastern Baptist Theological Seminary.
 intro: Why is the creation account the first narrative in the Bible?
-date: 2014-04-02T08:00-5:00
+ 
 ---
 
 "In the beginning, God created the heavens and the earth"---so begins the biblical narrative and the story of God reconciling the world to himself. The  Bible begins with God at the beginning of time and ends with God at the end of time. The Bible begins with God creating a good land for good people to inhabit and ends with him recreating a perfect earth with perfected inhabitants. The Bible begins in the beginning, at creation, because that is the beginning of our story with God, the creator of all.

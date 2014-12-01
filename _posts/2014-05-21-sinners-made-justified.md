@@ -7,7 +7,7 @@ context: The following partially satisfies the requirements for Dr. Steven McKi
 intro: "Describe what Christians mean when we say believers are 'justified'."
 description: In our conversion, God gives to us his very righteousness. One's righteousness is not improved, it is replaced. Outside of Christ, our righteousness is as filthy rags.
 keywords: [justify, righteous, grace, faith]
-date: 2014-05-21T08:00-4:00
+ 
 ---
 
 Justification is to die to sin. To be just is to be righteous. The righteousness given in justification is right standing before God. Therefore, justification is to be made right with God. One is justified by grace through faith in the gospel of Jesus Christ. Rather than by works of the law, one is justified through faith by the righteousness of Christ. The believer is able to share in Jesus' right standing by participating in his death and resurrection through faith. Justification is the giving of light and life to an individual. Faith is the means by which one has life; through faith, this one is justified and made righteous. 

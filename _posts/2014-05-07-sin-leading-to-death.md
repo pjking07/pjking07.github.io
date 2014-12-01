@@ -7,7 +7,7 @@ description: "Adam's one trespass led to death and eventual sin for all men; Jes
 keywords: [Adam, Jesus, death, sin, life, guilt]
 context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology II class at Southeastern Baptist Theological Seminary
 intro: "How do we understand what Romans 5:12ff has to say about Adam's role in our sin and death?"
-date: 2014-05-07T08:00-5:00
+ 
 ---
 
 In Romans 5:12ff, the apostle Paul explains how we all have death in Adam but can have life in Jesus Christ. First, we know that “sin came into the world through one man,” Adam. Through the temptation of the serpent and Adam’s following of his wife into sin, Adam brought sin into the world---choosing sin when he had the providence and grace from God to not sin. “And death through sin”: Adam’s sin led to his own death both spiritually and physically.

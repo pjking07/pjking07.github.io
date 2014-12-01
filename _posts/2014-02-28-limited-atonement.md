@@ -7,7 +7,7 @@ description: The redeeming work of Christ is unlimited in power and totally effe
 keywords: [elect, salvation, atonement, redemption, limited, unlimited, particular, general]
 context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology II class at Southeastern Baptist Theological Seminary.
 intro: Did Jesus atone for the sins of every person, or just those who become Christians?
-date: 2014-02-28T08:00-5:00
+ 
 ---
 
 Recently, I came across a question on a pastoral application asking if I affirmed limited or unlimited atonement. The form defined limited atonement as "the view that Christ’s atoning death was only for the elect" and defined unlimited atonement as "a view of the atonement that Christ’s redemptive death is available to all persons." Does such a church properly understand the theological question in view? As Christians, we reject universalism, the idea that all human individuals will ultimately be saved. Even though the gospel message is freely given to all men, some will respond with faith and so be saved, while others will reject God and die in their sins. Considering that salvation is wholly effective, but limited in extent to those who believe, how ought we to consider the similar extent and efficacy of Christ’s atoning work on the cross?  

@@ -7,7 +7,7 @@ description: The beginning of theology is participation in the faith handed down
 context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology I class at Southeastern Baptist Theological Seminary.
 intro: "What is the starting place of Christian theology?"
 keywords: [theology, beginning, Scripture, theologian, Trinity]
-date: 2014-02-03T08:00-05:00
+ 
 ---
 
 The starting place of Christian theology can be located within its name. Christian theology is "Christian" because it is theology done by Christians; its starting point is Christian faith itself. Done rightly, Christian theology reflects the truths of the faith of Christianity, but the starting point of Christian theology must be belief in the Christian gospel.

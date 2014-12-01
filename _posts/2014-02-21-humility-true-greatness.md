@@ -12,7 +12,7 @@ keywords: ["C. J. Mahaney", Humilty, "book review", practical, correction, criti
 rating: "4 / 5"
 buy:
     amazon: 1590523261
-date: 2014-02-21T8:00-5:00
+ 
 published: true
 ---
 

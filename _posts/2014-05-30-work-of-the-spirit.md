@@ -7,7 +7,7 @@ context: The following partially satisfies the requirements for Dr. Steven McKi
 intro: Describe the Holy Spirit's work in conversion.
 description: "The Spirit brings to completion all stages of conversion in an individual believer's life. This Spirit, who brought to effect both justification and sanctification, will also bring about future glorification—the resurrection of the dead to newness of life."
 keywords: [faith, indwelling, spirit, work, God, ]
-date: 2014-05-30T08:00-4:00
+ 
 ---
 
 The Person of the Holy Spirit participates in the work of God in the role of effector. As God, he works alongside the other Persons of the Trinity in order to bring to completion the work of God. The Holy Spirit fulfills this role in all of the five-fold work of God. The Spirit's work is tied to the gospel. The promise and power of the Spirit is focused on the gospel. Scripture identifies the Spirit's work as relating to the gospel---the ultimate culmination of God's work. In Luke 24, Jesus preached that repentance and forgiveness will be preached and the promise of the Spirit will come. The promise of the Spirit must be tied to the progress of the gospel. When discussing the Spirit's role in the progress of the gospel, we are concerned with every part of the gospel story and conversion.

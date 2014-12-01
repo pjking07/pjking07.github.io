@@ -6,7 +6,7 @@ tag: seminary
 context: "The following partially satisfies the requirements for Dr. Alvin Reid's Crossover Baltimore class at Southeastern Baptist Theological Seminary."
 tags: [Baltimore, Crossover, Freedom]
 description: "My teammate and I were able to speak with a grieving lady in the neighborhood."
-date: 2014-06-03T22:00-4:00
+ 
 ---
 
 This morning we received a lesson-sermon from Preston Nix, Professor of Evangelism and Preaching at New Orleans Baptist Theological Seminary. (Notably, this professor shares my hometown of Waco, TX.) Dr. Nix provided many words of encouragement toward evangelism and did a stellar job at keeping most of us awake (inside joke). He primarily wanted us to learn to be consistently *intentional* in evangelism using a three-fold method: (1) Connect with people, (2) Communicate the Gospel, and (3) Call for a Response.

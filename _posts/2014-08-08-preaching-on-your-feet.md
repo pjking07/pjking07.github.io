@@ -12,7 +12,7 @@ buy:
   amazon: B001AOIKRA
 image:
   feature: /reviews/preaching-on-your-feet.jpg
-date: 2014-08-04T08:00-4:00
+ 
 ---
 
 # Summary

@@ -9,7 +9,7 @@ buy:
     amazon: 158134824X
 context: The following partially satisifies the requirements for Dr. Andrew Davis' Pastoral Internship class at Southeastern Baptist Theological Seminary.
 intro: "<cite>Worship Matters: Leading Others to Encounter the Greatness of God</cite>. By Bob Kauflin. Wheaton: Crossway, 2008, 260 pp., $11.29 Paperback."
-date: 2014-07-18T08:00-4:00
+ 
 published: true
 ---
 

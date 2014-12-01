@@ -7,7 +7,7 @@ description: "Should Mary be called the Mother of God? No, but she is the mother
 context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology II class at Southeastern Baptist Theological Seminary.
 intro: "Is it appropriate to call Mary the “Mother of God”?"
 keywords: [theology, Mary, mother, birth, conception, child, save, salvation, born]
-date: 2014-02-07T08:00-05:00
+ 
 published: true
 ---
 

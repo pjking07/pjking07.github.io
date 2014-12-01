@@ -7,7 +7,7 @@ context: The following partially satisfies the requirements for Dr. Steven McKi
 intro: Can someone be a Christian without believing in the Triune God?
 description: While the noetic minimum of salvific faith is known by God alone, anyone who expressly rejects God as Trinity cannot be affirmed to be a Christian.
 keywords: [Trinity, Christian, Godhead, threeness, Athanasius, creed, "Athanasian Creed"]
-date: 2014-02-26T08:00-5:00
+ 
 ---
 
 As Christians, we affirm the Triune God: Father, Son, and Spirit. These Persons are coequal in glory and coeternal in majesty (*Athanasian Creed* [AC], 6). What the Father speaks, the Son does by the effectual Spirit. All works of God are done in the fullness of God with each Person uniquely acting behind a perfectly unified will.

@@ -7,7 +7,7 @@ context: The following partially satisfies the requirements for Dr. Steven McKi
 intro: Describe the communication of attributes.
 description: The Son makes this descent for the salvation of men. Jesus uses the different attributes of his two natures as is appropriate for his work of salvation for mankind.
 keywords: [nature, attribute, flesh, Son, God, Jesus, human, incarnation]
-date: 2014-05-23T08:00-4:00
+ 
 ---
 
 At the Incarnation, the Word became flesh---the Son of God became man. Jesus, who is the Incarnate Son of God, is one person with two natures. He is fully God and fully man. No attribute of his divinity is diminished and no attribute of his humanity is diminished. Indeed, Jesus is both fully human and the true human; he is humanity as we were meant to be.

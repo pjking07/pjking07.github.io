@@ -6,7 +6,7 @@ tag: seminary
 context: "The following partially satisfies the requirements for Dr. Alvin Reid's Crossover Baltimore class at Southeastern Baptist Theological Seminary."
 tags: [Baltimore, Crossover, evangelism, gospel]
 description: "My teammates and I were privileged to participate in one lady's entrance into the Kingdom of Christ."
-date: 2014-06-07T23:00-4:00
+ 
 ---
 
 Today was the last day of Crossover week, the culmination of much work done by our team, local churches, and many others this week. Many local churches in the area scheduled block parties and neighborhood events in order to make God famous in Baltimore. Our team joined Freedom church and a few others for a "Community Day" at Patterson Park (a giant park downtown). This event was intended to serve the community, let us tell others about Jesus, and provide connections specifically for a new church plant.

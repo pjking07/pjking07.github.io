@@ -7,7 +7,7 @@ context: "The following partially satisfies the requirements for Dr. John Bohan
 intro: "This sermon was delivered on July 24, 2014 and is a derivative of a longer <a href='/lessons/growing-in-holiness/' target='blank'>sermon manuscript</a>."
 description: "Regarding all matters of holiness, but especially sexual morality, we can please God by growing in obedience to Jesus’ commands through the gift of the Holy Spirit."
 keywords: [holiness, sanctification, "sexual immorality", "sexual morality", chastity, obedience]
-date: 2014-07-24T08:00-4:00
+ 
 ---
 
 {% include media/vimeo.html id="101795667" %}

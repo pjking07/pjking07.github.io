@@ -6,7 +6,7 @@ tag: fbc-durham
 context: The following was prepared for my home fellowship group at FBC Durham. The material lasted us two meetings and covers Ephesians 5:1–20. All Scripture references are ESV.
 keywords: ["ephesians 5", shine, love, walk, light, Christ, darkness]
 description: "Christians must walk in love, speak in love, and shine the light of Christ so that the works of darkness can be exposed and the workers of darkness can become light in the Lord."
-date: 2014-05-14T08:00-5:00
+ 
 ---
 
 *There are printable copies of this [lesson]({{site.files}}/lessons/ephesians-5.1-5.20.docx) and [outline]({{site.files}}/lessons/ephesians-5.1-5.20-outline.docx).*

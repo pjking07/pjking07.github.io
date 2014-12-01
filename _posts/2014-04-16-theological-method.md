@@ -7,7 +7,7 @@ description: Christian theology involves retelling the story of the Bible. We wa
 keywords: [theology, gospel, task, Christian, systematic]
 context: "The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology I class at Southeastern Baptist Theological Seminary."
 intro: "Describe our method for doing Christian Theology."
-date: 2014-04-16T08:00-5:00
+ 
 ---
 
 Christian theology is a culturally appropriate retelling of the gospel of Jesus Christ according to the Scriptures. The task of Christian theology begins with faith in the gospel message because only Christians are able to participate in Christian theology. The starting point of Christian theology is credobaptism, which is a summary statement of the gospel: we have died, been buried, and raised again with Jesus in the name of the Father, the Son, and the Spirit. The source of Christian theology is the Bible and the end of Christian theology is our own spiritual formation. Finally, the fruit of Christian theology is doctrine.

@@ -7,7 +7,7 @@ description: "Even though he saw the Son in his majesty, Peter attests to the mo
 keywords: [inspiration, inerrancy, revelation, prophet]
 context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology I class at Southeastern Baptist Theological Seminary.
 intro: "How does 2 Peter 1:16ff inform our understanding of Scripture as revelation? You should discuss inspiration and inerrancy."
-date: 2014-04-21T08:00-5:00
+ 
 ---
 
 The apostle Peter enhanced our understanding of Scripture as revelation when he wrote his second epistle. In 2 Peter 1:16--21, the author explains,  "we have the prophetic word more fully confirmed" and "no prophecy was ever produced by the will of man, but men spoke from God as they were carried along by the Holy Spirit." Peter makes these assertions in light of his own experience of witnessing the glorified Christ on the Mount of Transfiguration---"we ourselves heard this very voice borne from heaven, for we were with him on the holy mountain"! In light of his impending death, Peter explains that he is writing this letter of Scripture because his flock needs something they can rely upon as concrete apostolic teaching. Even though he saw the Son in his majesty, Peter attests to the more certain witness of the Scripture---the prophetic word of Scripture is more certain than our very eyes. 

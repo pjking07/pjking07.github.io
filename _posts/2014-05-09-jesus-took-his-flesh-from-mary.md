@@ -7,7 +7,7 @@ description: "The Son entered the world, took his flesh from Mary, and reunited 
 keywords: [incarnate, Son, world, flesh, mary, sin, Adam, save]
 context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology II class at Southeastern Baptist Theological Seminary.
 intro: "What do we mean when we say that in the Incarnation the Son 'took his flesh from Mary'?"
-date: 2014-05-09T08:00-5:00
+ 
 ---
 
 The Son has eternally existed as the Son, being both God and with God. This Son incarnated, taking on human flesh, in order to save humanity from its sins and unite men with God. The Son incarnated as Jesus through a miraculous, virginal conception within Mary. This conception takes place not only within Mary but with Mary. Mary and her flesh conceive, by the Spirit, the God-man Jesus. Because the Spirit conceived a child within Mary, Jesus took his own flesh from Mary. Jesus' humanity is rooted in and inherited from the humanity of his mother Mary. Contra the Hoffmanite heresy, Jesus did not merely occupy Mary's womb, as one separated from her flesh, and emerge from her body as water through a pipe. No, the Holy Spirit conceived within Mary her own son, the God-man Jesus. 

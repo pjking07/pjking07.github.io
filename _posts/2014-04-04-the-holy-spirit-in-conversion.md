@@ -7,7 +7,7 @@ description: "The Holy Spirit is at work through every stage of our salvation: j
 keywords: [holy spirit, work, God, salvation, justification, sanctification, glorification]
 context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology II class at Southeastern Baptist Theological Seminary.
 intro: What role does the Holy Spirit play in conversion?
-date: 2014-04-04T08:00-5:00
+ 
 ---
 
 The Holy Spirit is God and brings to completion all of the works of God. As such, the Holy Spirit is integral to our own conversion. Indeed, without the Holy Spirit, there would be no conversions, because the work of salvation and conversion would not be completed.

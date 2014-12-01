@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Dissolution of Marriage
-date: 2013-12-20
+ 
 comments: false
 category: papers
 tags: seminary

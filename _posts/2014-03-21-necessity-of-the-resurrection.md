@@ -7,7 +7,7 @@ context: The following partially satisfies the requirements for Dr. Steven McKi
 intro: "Why was the resurrection of Jesus necessary for salvation?"
 description: "Without Christ's own resurrection, we would have no resurrection and would still be lost to the last enemy, namely, death."
 keywords: [resurrection, body, physical, spiritual, death, faith]
-date: 2014-03-21T08:00-5:00
+ 
 ---
 
 The resurrection of the dead is too outrageous a concept for many outside the Christian faith to bear. Even some who claim to believe the teachings of the "historical Jesus" refuse to recognize the validity of the physical resurrection of his body. Given that some who call themselves Christians even reject the necessity of Jesus' bodily resurrection, orthodox Christians must be ready to answer the seemingly simple question, "Why was the resurrection of Jesus necessary for salvation?"

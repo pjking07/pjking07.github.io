@@ -7,7 +7,7 @@ context: "The following partially satisfies the requirements for Dr. Steven McK
 intro: What does it mean that God is Father?
 description: "God the Father, who has eternally been the Father of the God the Son, has chosen to adopt us as his own children so that we might receive his glorious inheritance."
 keywords: [godhead, father, trinity, child]
-date: 2014-03-19T08:00-5:00
+ 
 ---
 
 O the depths of the truth of the Trinity. The Christian God is one God in three persons, blessed Trinity. The Godhead consists of three co-equal persons: God the Father, God the Son, and God the Holy Spirit. Each of these persons is God and each has existed eternally as God, being uncreated. Within the Christian context of the Triune God, we can ask ourselves, "What does it mean that God is Father?"

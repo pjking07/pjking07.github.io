@@ -9,7 +9,7 @@ context: The following partially satisfies the requirements for Dr. Andrew Davi
 intro: "<cite>A Quest for Godliness: The Puritan Vision of the Christian Life</cite>. By J. I. Packer. Crossway, 1990, 368 pp., $17.67."
 buy:
     amazon: 1433515814
-date: 2014-03-24T08:00-5:00
+ 
 ---
 
 In his chapter, "Puritan Evangelism", J. I. Packer distinguishes between what he calls "modern" evangelism and Puritan evangelism. Essentially, Packer views modern evangelism as the descendent of Finneyism, rooted in "occasional activity, additional and auxiliary to the regular functioning of the local congregation" (p. 292). To contrast, Packer views Puritan evangelism as that which is consistent with the conviction "that the conversion of a sinner is a gracious sovereign work of divine power" (p. 294), divine grace, and divine freedom.

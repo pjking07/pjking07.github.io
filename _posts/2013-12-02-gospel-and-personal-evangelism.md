@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Gospel and Personal Evangelism, by Mark Dever"
-date: 2013-12-02
+ 
 comments: false
 category: reviews
 tags: seminary

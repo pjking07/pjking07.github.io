@@ -7,7 +7,7 @@ description: Let us be hold to the truth of the text of the creation narrative w
 keywords: [creation, narrative, Genesis, day, night, calendar, 24 hour, Darwinism, evolution]
 context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology I class at Southeastern Baptist Theological Seminary.
 intro: Is it necessary to believe that the days in Genesis were 24 hour days?
-date: 2014-04-09T08:00-05:00
+ 
 ---
 
 The creation narrative in Genesis 1 poetically flows from section to section with the statement, "And there was evening and there was morning, the [X]th day." For six days, God spoke and created the world until "on the seventh day God finished his work that he had done, and he rested" (Gen. 2:2). With such focus on each day of creation, one may be inclined to wonder how to interpret "day" in Genesis 1. Does "day" represent a 24-hour calendar-day, an epoch of time, or is the entire passage poetic with no direct correlation to history? More important for Christian theology, however, is whether or not it is necessary to affirm a certain interpretation of the creation account in Genesis 1--2.

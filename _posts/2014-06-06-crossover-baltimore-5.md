@@ -6,7 +6,7 @@ tag: seminary
 context: "The following partially satisfies the requirements for Dr. Alvin Reid's Crossover Baltimore class at Southeastern Baptist Theological Seminary."
 tags: [Baltimore, Crossover, Oriole's]
 description: "In a change-up, many other students and I attended a Baltimore Oriole's baseball game."
-date: 2014-06-06T23:00-4:00
+ 
 ---
 
 This morning Jim Stitzinger of Southern Baptist Theological Seminary gave a brief talk on the significance of dying to self and dying with Christ for the sake of the mission. Subsequently, Alvin Reid of Southeastern Baptist Theological Seminary found seven principles for ministry in Acts 11:19--30: (1) see God working, (2) choose joy, (3) be an encourager, (4) have Spirit-empowered integrity, (5) share Christ, (6) invest in others, and (7) see God move through you.

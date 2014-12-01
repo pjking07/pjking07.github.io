@@ -7,7 +7,7 @@ description: "God's work of justification allows us to participate Jesus' right 
 keywords: [justify, sanctify, righteous, transformation, salvation]
 intro: What does it mean to be "justified"?
 context: The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology II class at Southeastern Baptist Theological Seminary.
-date: 2014-04-25T08:00-5:00
+ 
 ---
 
 In a general sense, justification is showing something to be right. Theologically, justification is the declaration of one's righteousness before God. How can we expand this pithy definition of justification to more thoroughly understand this theological truth?

@@ -7,7 +7,7 @@ description: "Christian theology is a culturally appropriate retelling of the go
 keywords: [Christian, theology, community, doctrine, "historical theology", "philosophical theology", "historical theology", "systematic theology", apologetics, "biblical theology"]
 context: "The following partially satisfies the requirements for Dr. Steven McKinion's Christian Theology I class at Southeastern Baptist Theological Seminary."
 intro: Define Christian Theology. Explain in detail and contrast with other theological disciplines.
-date: 2014-04-14T08:00-5:00
+ 
 ---
 
 Christian theology is a culturally appropriate retelling of the gospel of Jesus Christ according to the Scriptures. Christian theology begins with faith, starts with baptism, is sourced in Scripture, ends in spiritual formation, and produces the fruit of doctrine. Christian theology is a discipline by the Christian community for the sake of the Christian community to the end of knowing God and becoming conformed to the image of Christ.
