@@ -9,7 +9,6 @@ for the mission of God."
 image:
     feature: papers/adoniram-judson.jpg
 keywords: ["Adoniram Judson", "Ann Hasselitine", "Sarah Broadman", "Emily Chubbock", mission, missionary, suffer, ambition, sanctified, selfless, selfish ]
-published: false
 ---
 
 Adoniram Judson was a Congregationalist-turned-Baptist who served as a
