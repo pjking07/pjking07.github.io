@@ -34,10 +34,12 @@
                     Subscribe
                 </a></li>
                 {% endif %}
+                {% if site.posts > 0 %}
                 <li><a href="{{site.url}}/feed.xml">
                     <i class="fa fa-fw fa-rss"></i>
                     Feed
                 </a></li>
+                {% endif %}
                 {% if site.owner.github.user && site.owner.github.repo %}
                 <li><a href="https://github.com/{{ site.owner.github.user }}/{{ site.owner.github.repo }}">
                     <i class="fa fa-fw fa-github-alt"></i>

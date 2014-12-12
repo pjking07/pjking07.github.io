@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Howdy!
+title: "Howdy!"
 permalink: /
-image: 
+image:
     feature: /layout/family.jpg
 ---
 

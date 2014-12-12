@@ -1,13 +1,6 @@
 ---
-layout: default
+layout: page
 ---
 
-<section class="article">
-    {% if page.image.feature %}
-    <div class="featured-image">
-        <img src="{{site.files}}/{{page.image.feature}}" alt="featured image" />
-    </div>
-    {% endif %}
-    {% include article.html %}
-</section>
-</div>
+{{ content }}
+{% include share.html %}
