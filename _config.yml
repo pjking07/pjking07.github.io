@@ -10,7 +10,8 @@ owner:
   email:          mail@vernonking.org
   twitter:        vrking3
   facebook:       pjking07
-  subscribe:      "http://eepurl.com/7GWWX"
+  mailchimp:
+      signup:     "http://eepurl.com/7GWWX"
   amazon:         "vernonking-20"
   goodreads:      pjking07
   github:

@@ -28,8 +28,8 @@
                     Goodreads
                 </a></li>
                 {% endif %}
-                {% if site.owner.subscribe %}
-                <li><a onclick="window.open('{{site.owner.subscribe}}', 'subscribe', 'width=510,height=680')" title="Subscribe via email">
+                {% if site.owner.mailchimp %}
+                <li><a onclick="window.open('{{site.owner.mailchimp.signup}}', 'subscribe', 'width=510,height=680')" title="Subscribe via email">
                     <i class="fa fa-fw fa-bullhorn"></i>
                     Subscribe
                 </a></li>
