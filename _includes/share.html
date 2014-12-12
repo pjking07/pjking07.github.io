@@ -1,6 +1,6 @@
 <div class="share">
-    {% if post.buy.amazon %}
-    <a class="amazon" target="_blank" href="http://www.amazon.com/dp/{{post.buy.amazon}}/?tag={{site.owner.amazon}}">
+    {% if page.buy.amazon %}
+    <a class="amazon" target="_blank" href="http://www.amazon.com/dp/{{page.buy.amazon}}/?tag={{site.owner.amazon}}">
         <i class="fa fa-shopping-cart"></i>Buy
     </a>
     {% endif %}
@@ -19,4 +19,3 @@
     </a>
     {% endif %}
 </div>
-

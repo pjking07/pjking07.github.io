@@ -7,9 +7,9 @@ context: "The following partially satisfies the requirements for Dr. Jonathan L
 intro: "<cite>Going Public: Why Baptism is Required for Church Membership</cite>. By Bobby Jamieson. Nashville: B&H Academic, forthcoming, 149 pp."
 rating: "5 / 5"
 buy:
-    amazon:
+    amazon: 1433686201
 image:
-    feature:
+    feature: /reviews/going-public.jpg
 description: "While the focus of _Going Public_ is open- vs. closed-membership, Jamieson's work necessarily delves into Baptist discussions concerning paedobaptism, open-communion, church membership, and the constitution of a church."
 keywords: ["Bobby Jamieson", "Going Public", baptism, communion, membership, ecclesiology, "open-membership", "closed-membership", "open-communion", "closed-communion"]
 ---
