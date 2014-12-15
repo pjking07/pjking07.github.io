@@ -1,13 +1,13 @@
 {% if post.rating %}
 <div class="rating">Rating: <span class="visuallyhidden">{{ post.rating }}</span>
     {% assign rating = post.rating | split: '/' %}
-    {% assign looper = "1 2 3 4 5 6 7 8 9 10" | split: ' ' %}
-    {% for i in looper | limit: rating[1] %}
-        {% if rating[0] > i %}
-            <i class="fa fa-star"></i>
-        {% else %}
-            <i class="fa fa-star-o"></i>
-        {% endif %}
+    {% assign earned = rating[0] %}
+    {% assign max = rating[1] | minus: 1 %}
+    {% for i in (1..earned) %}
+        <i class="fa fa-star"></i>
+    {% endfor %}
+    {% for i in (earned..max) %}
+        <i class="fa fa-star-o"></i>
     {% endfor %}
 </div>
 {% endif %}
