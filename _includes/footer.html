@@ -1,7 +1,35 @@
 <div class="push"></div>
 <footer>
     <aside class="wrap">
+    {% if site.posts.size > 0 %}
+    <div class="recent-posts">
+        {% assign post_list = site.categories[page.categories.first] %}
+        {% if post_list.size >= 3 %}
+            <h2>Recent {{ page.categories.first }}</h2>
+        {% else %}
+            {% assign post_list = site.tags[page.tags.first] %}
+            {% if post_list.size >= 3 %}
+            <h2>Recent {{ page.tags.first }} posts</h2>
+            {% else %}
+            {% assign post_list = site.posts %}
+            <h2>Recently posted</h2>
+            {% endif %}
+        {% endif %}
+        <ul class="prev-posts">
+            {% for post in post_list | limit:5 %}
+            <li>
+                <span class="recent-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">
+                    {{ post.title | strip_html | strip_newlines | truncate: 50 }} </a></span>
+                {% assign meta_links = false %}
+                {% include post-meta.html %}
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
         <div class="social">
+    {% else %}
+        <div class="social hcenter">
+    {% endif %}
             <h2>Connect</h2>
             <ul class="social-links">
                 {% if site.owner.email %}
@@ -48,30 +76,6 @@
                 {% endif %}
             </ul>
             <div class="social-photo"><img src="{{ site.files }}/layout/squareface.jpg" alt="Vernon R. King, III"/></div>
-        </div>
-        <div class="recent-posts">
-            {% assign post_list = site.categories[page.categories.first] %}
-            {% if post_list.size >= 3 %}
-                <h2>Recent {{ page.categories.first }}</h2>
-            {% else %}
-                {% assign post_list = site.tags[page.tags.first] %}
-                {% if post_list.size >= 3 %}
-                <h2>Recent {{ page.tags.first }} posts</h2>
-                {% else %}
-                {% assign post_list = site.posts %}
-                <h2>Recently posted</h2>
-                {% endif %}
-            {% endif %}
-            <ul class="prev-posts">
-                {% for post in post_list | limit:5 %}
-                <li>
-                    <span class="recent-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">
-                        {{ post.title | strip_html | strip_newlines | truncate: 50 }} </a></span>
-                    {% assign meta_links = false %}
-                    {% include post-meta.html %}
-                </li>
-                {% endfor %}
-            </ul>
         </div>
     </aside>
     <small>

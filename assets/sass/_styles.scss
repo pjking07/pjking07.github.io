@@ -32,6 +32,13 @@ a:hover {
     @include transition(all .25s ease-in-out);
 }
 
+.hcenter {
+    margin-right: auto !important;
+    margin-left: auto !important;
+    display: block !important;
+    float: none !important;
+}
+
 .fa {
     color: $grey-medium;
 }
@@ -692,6 +699,7 @@ footer {
     }
 
     aside.wrap {
+        padding-bottom: 4em;
         width: 90%;
         margin: {
             left: auto;
@@ -725,7 +733,6 @@ footer {
     }
 
     .prev-posts {
-        padding-bottom: 4em;
         max-width: 600px;
         float: left;
         clear: none;
@@ -767,6 +774,7 @@ footer {
     }
 
     .recent-posts {
+        float: left;
         width: 57%;
         margin-right: 5%;
     }
