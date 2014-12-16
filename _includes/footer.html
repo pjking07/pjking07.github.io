@@ -50,6 +50,12 @@
                     Facebook
                 </a></li>
                 {% endif %}
+                {% if site.owner.linkedin %}
+                <li><a href="https://www.linkedin.com/in/{{site.owner.linkedin}}/">
+                    <i class="fa fa-fw fa-linkedin"></i>
+                    LinkedIn
+                </a></li>
+                {% endif %}
                 {% if site.owner.goodreads %}
                 <li><a href="http://goodreads.com/{{ site.owner.goodreads }}/">
                     <i class="fa fa-fw fa-book"></i>
