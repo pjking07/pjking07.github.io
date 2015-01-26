@@ -12,7 +12,6 @@ image:
     feature: reviews/confessions.jpg
 description: "_Confessions: The Birthpangs of Conversion_, describes a number of years in Augustine's life and—as the title suggests—depicts the author's painful yet joyous conversion experience."
 keywords: [Augustine, Confessions, conversion, birthpang, antony, victorinus, "pick up and read"]
-date: 2015-01-25
 ---
 
 Augustine's *Confessions* is an auto-biographical account from the Bishop of Hippo. Written in the late 4<sup>th</sup> century, this work is a form of prose and poetry addressed to God, but penned for the benefit of Christians everywhere. *Confessions* is parsed into thirteen books; book VIII, *The Birthpangs of Conversion*, describes a number of years in Augustine's life and---as the title suggests---depicts the author's painful yet joyous conversion experience.

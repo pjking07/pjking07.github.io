@@ -14,8 +14,9 @@ image:
 description: "Rodney Stark's conclusion that exogamous marriage was 'crucial to the rise of Christianity' is speculative in nature and historically untenable."
 keywords: ["Rise of Christianity", "Rodney Stark", exogamy, marriage, women]
 date: 2015-01-26
-published: false
 ---
+
+_This paper was submitted on October 18, 2010. However, what follows is its debut printing._
 
 Rodney Stark's *The Rise of Christianity* is a sociological evaluation of early Christianity through the year AD 350. Stark sets out to examine the sociological elements behind the development of Christianity as a dominant cultural force. While Stark bases much of his book on widely accepted historical data, one section is particularly controversial, to say the least. In his chapter, "The Role of Women," Stark argues that exogamous marriage, i.e. marriage outside of a group, "was crucial to the rise of Christianity."[^1] In this essay, I will argue that Stark's conclusion regarding exogamous marriage is speculative in nature and historically untenable.
 
