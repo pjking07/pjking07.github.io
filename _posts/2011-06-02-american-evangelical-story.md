@@ -15,7 +15,6 @@ provided an approachable, even-handed account of the history of
 evangelicalism."
 keywords: ["American Evangelical Story", "Douglas Sweeney", "book review", evangelical, neoevangelical, charismatic, fundamentalism]
 date: 2015-01-27
-published: false
 ---
 
 What does it mean to be an evangelical? This question is the
