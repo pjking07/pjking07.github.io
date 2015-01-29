@@ -14,6 +14,8 @@ keywords: ["David Brainerd", "Jonathan Edwards", mission, missionary, tuberculos
 date: 2015-01-29
 ---
 
+_This review was originally submitted in March 2011. This is its first release online._
+
 Video Review
 ------------
 
