@@ -11,10 +11,7 @@ image:
     feature: reviews/david-brainerd.jpg
 description: "David Brainerd was a missionary to the Native Americans in New England, with whom he had great success. _The Life and Diary of David Brainerd_ is a collection of David Brainerd's diaries and journals from his adult life from college, to his untimely death."
 keywords: ["David Brainerd", "Jonathan Edwards", mission, missionary, tuberculosis]
-date: 2015-01-29
 ---
-
-_This review was originally submitted in March 2011. This is its first release online._
 
 Video Review
 ------------
