@@ -29,7 +29,7 @@ In this passage, Paul presents Timothy with a set of qualifications for elders, 
 
 ## Verse 1
 
-> [^10]Εἴ τις ἐπισκοπῆς ὀρέγεται, καλοῦ ἔργου ἐπιθυμεῖ.[^11]
+> _[^10]Εἴ τις ἐπισκοπῆς ὀρέγεται, καλοῦ ἔργου ἐπιθυμεῖ.[^11]_
 >
 > If anyone aspires to a position of responsibility, he desires important work.[^12]
 
@@ -39,7 +39,7 @@ The first clause of this verse establishes that it is not only good for a candid
 
 ## Verse 2
 
-> δεῖ οὖν τὸν ἐπίσκοπον ἀνεπίλημπτον εἶναι, μιᾶς γυναικὸς ἄνδρα, νηφάλιον σώφρονα κόσμιον φιλόξενον διδακτικόν,[^16]
+> _δεῖ οὖν τὸν ἐπίσκοπον ἀνεπίλημπτον εἶναι, μιᾶς γυναικὸς ἄνδρα, νηφάλιον σώφρονα κόσμιον φιλόξενον διδακτικόν,[^16]_
 >
 > Accordingly, the overseer must be irreproachable: faithful to his wife, self-controlled, thoughtful, honorable, hospitable, able to teach,
 
@@ -60,7 +60,7 @@ The remaining character qualifications in verse 2 are relatively straightforward
 
 ## Verse 3
 
-> μὴ πάροινον μὴ πλήκτην, ἀλλὰ ἐπιεικῆ ἄμαχον ἀφιλάργυρον,[^43]
+> _μὴ πάροινον μὴ πλήκτην, ἀλλὰ ἐπιεικῆ ἄμαχον ἀφιλάργυρον,[^43]_
 >
 > not a drunkard, nor a bully, but yielding, peaceable, generous with money,
 
@@ -68,7 +68,7 @@ The list of qualifications continues in verse 3. While the first two phrases in 
 
 ## Verses 4--5
 
-> **4** τοῦ ἰδίου οἴκου καλῶς προϊστάμενον, τέκνα ἔχοντα ἐν ὑποταγῇ, μετὰ πάσης σεμνότητος (**5** εἰ δέ τις τοῦ ἰδίου οἴκου προστῆναι οὐκ οἶδεν, πῶς ἐκκλησίας θεοῦ ἐπιμελήσεται;),[^50]
+> _**4** τοῦ ἰδίου οἴκου καλῶς προϊστάμενον, τέκνα ἔχοντα ἐν ὑποταγῇ, μετὰ πάσης σεμνότητος (**5** εἰ δέ τις τοῦ ἰδίου οἴκου προστῆναι οὐκ οἶδεν, πῶς ἐκκλησίας θεοῦ ἐπιμελήσεται;),[^50]_
 >
 > **4** leading his own family well by holding his children in submission, with all dignity, **5** (for if someone does not know how to lead his own family, how will he care for the church of God?),
 
@@ -78,7 +78,7 @@ In verse 5, Paul pauses to explain the purpose of the requirement in verse 4 by 
 
 ## Verses 6--7
 
-> **6** μὴ νεόφυτον, ἵνα μὴ τυφωθεὶς εἰς κρίμα ἐμπέσῃ τοῦ διαβόλου. **7** δεῖ δὲ καὶ μαρτυρίαν καλὴν ἔχειν ἀπὸ τῶν ἔξωθεν, ἵνα μὴ εἰς ὀνειδισμὸν ἐμπέσῃ καὶ παγίδα τοῦ διαβόλου.[^56]
+> _**6** μὴ νεόφυτον, ἵνα μὴ τυφωθεὶς εἰς κρίμα ἐμπέσῃ τοῦ διαβόλου. **7** δεῖ δὲ καὶ μαρτυρίαν καλὴν ἔχειν ἀπὸ τῶν ἔξωθεν, ἵνα μὴ εἰς ὀνειδισμὸν ἐμπέσῃ καὶ παγίδα τοῦ διαβόλου.[^56]_
 >
 > **6** not a recent convert, so that he may not be puffed up and then fall into the devil's condemnation, **7** (but he must also possess a confirmation of good character from those on the outside, so that he may not fall into disgrace, also a snare of the devil.)
 
