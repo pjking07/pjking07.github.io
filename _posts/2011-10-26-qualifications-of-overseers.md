@@ -6,7 +6,6 @@ category: papers
 context: "The following partially satisfies the requirements for Dr. Robert Bernard's Greek Syntax and Exegesis II class at Southwestern Baptist Theological Seminary."
 description: "The passage focuses on the person, rather than the office, and accordingly on character attributes, rather than duties and abilities. Overall, the qualified overseer should be a mature, honorable, and respected man who is actively living a healthy Christian life."
 keywords: [pastor, elder, deacon, overseer, "above reproach", "husband of one wife", irreproachable, "faithful to his wife", self-controlled, thoughtful, honorable, hospitable, "able to teach", "not a drunkard", "not a bully", yielding, peaceable, "generous with money", "not a recent convert", "leading his own family well"]
-date: 2015-03-14
 ---
 
 _Note: This paper can be viewed as a [pdf]({{ site.files }}/papers/qualifications-of-overseers.pdf)._
