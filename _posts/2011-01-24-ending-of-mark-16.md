@@ -7,11 +7,7 @@ context: "The following partially satisfies the requirements for Dr. Robert Ber
 intro: "This is a contrived pastoral letter to a concerned member who discovered a footnote in his Bible pointing to a debate over the longer ending of Mark 16:9–20 and introduces to him the field of textual criticism."
 description: "This is a contrived pastoral letter to a concerned member who discovered a footnote in his Bible pointing to a debate over the longer ending of Mark 16:9–20 and introduces to him the field of textual criticism."
 keywords: [Mark, "Mark 16", Alexandrian, Western, Caesarean, Byzantine, Koine, "textual criticism", "textual tradition"]
-date: 2015-03-22
 ---
-
-_The following essay was originally written on January 24, 2011._
-
 
 Bert,
 
