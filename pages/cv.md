@@ -111,8 +111,8 @@ Residential intern with an IMB missionary team:
 
 Served in the church in a variety of roles:
 
-- Home Fellowship (small group) co-leader and teacher (Fall 2014--present)
-- Bible for Life co-teacher, fifth grade boys (Fall 2014--present)
+- Home Fellowship (small group) co-leader and teacher (Fall 2014--Spring 2015)
+- Bible for Life co-teacher, fifth grade boys (Fall 2014--Spring 2015)
 - Bible for Life co-teacher, two year-olds (Fall 2013)
 
 
@@ -173,7 +173,7 @@ Raised by my parents to be a faithful member:
 
 ### Southeastern Baptist Theological Seminary (Wake Forest, North Carolina)
 
-*Software Developer (May 2013--present)*
+*Software Developer (May 2013--January 2015)*
 
 
 ### FTS International (Fort Worth, Texas)
@@ -211,7 +211,7 @@ Led a team of five engineers and served as a point of contact with management.
 ### [Nathan Finn](http://www.nathanfinn.com/), Ph.D.
 
 - *Elder*, First Baptist Church, Durham, North Carolina
-- *Associate Professor, Historical Theology and Baptist Studies*, Southeastern Baptist Theological Seminary
+- *Dean of the School of Theology and Missions and Professor of Christian Thought and Tradition,* Union University (effective July 1, 2015)    (919) 280-4309    [nfinn79@gmail.com](mailto:nfinn79@gmail.com)
 
 
 ### Benjamin H. Arbour, Ph.D.
