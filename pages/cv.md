@@ -173,7 +173,7 @@ Raised by my parents to be a faithful member:
 
 ### Olo (Waco, Texas)  
 
-*Senior Software Engineer (January 2015--present)*  
+*Senior Software Engineer (February 2015--present)*  
  
 
 ### Southeastern Baptist Theological Seminary (Wake Forest, North Carolina)
