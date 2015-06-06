@@ -12,7 +12,7 @@ keywords: ["Southeastern Baptist Theological Seminary", "SEBTS", "Southwestern B
 
 ---
 
-Having felt an earnest call to ministry since college, I have been preparing for church ministry through internship opportunities, academic study, voracious reading, intense dialog, and a foray into electronic publishing while simultaneously pursuing a career in software development. Although my primary focus has been church health, including church planting and church strengthening, I have also been gifted in personal counseling and have experience in adoption ministry.
+Though  a software engineer vocationally, I have felt an earnest call to ministry since college and am currently pursuing pulpit supply, interim ministry, and itinerant ministry. I  have been preparing for church ministry through internship opportunities, academic study, voracious reading, intense dialog, and even a  foray into electronic publishing. Although my primary focus has been church health, including church planting and church strengthening, I have also been gifted in personal counseling and have experience in adoption ministry. 
 
 I affirm the [Abstract of Principles](http://www.sbts.edu/documents/abstract.pdf),[^ap] the [Baptist Faith and Message 2000](http://www.sbc.net/bfm/bfm2000.asp), the [Chicago Statement on Biblical Inerrancy](http://www.sebts.edu/files/chicago-statement-on-biblical-inerrancy.pdf), and the [Danvers Statement on Biblical Manhood and Womanhood](http://cbmw.org/uncategorized/the-danvers-statement/).
 
@@ -29,8 +29,8 @@ Kathryn Rose
 #### Children
 
 1. Vernon Ray, IV (12)
-2. Brooklyn Leigh (8)
-3. Emma Grace (4)
+2. Brooklyn Leigh (9)
+3. Emma Grace (5)
 4. Seth Christopher (2)
 
 Some of our children were adopted in 2011.
@@ -171,6 +171,11 @@ Raised by my parents to be a faithful member:
 
 ## Professional History
 
+### Olo (Waco, Texas)  
+
+*Senior Software Engineer (January 2015--present)*  
+ 
+
 ### Southeastern Baptist Theological Seminary (Wake Forest, North Carolina)
 
 *Software Developer (May 2013--January 2015)*
@@ -210,8 +215,10 @@ Led a team of five engineers and served as a point of contact with management.
 
 ### [Nathan Finn](http://www.nathanfinn.com/), Ph.D.
 
-- *Elder*, First Baptist Church, Durham, North Carolina
-- *Dean of the School of Theology and Missions and Professor of Christian Thought and Tradition,* Union University (effective July 1, 2015)    (919) 280-4309    [nfinn79@gmail.com](mailto:nfinn79@gmail.com)
+- *Elder*, First Baptist Church, Durham, North Carolina (formerly)
+- *Associate Professor, Historical Theology and Baptist Studies,*   
+   Southeastern Baptist Theological Seminary
+- *Dean of the School of Theology and Missions and Professor of Christian Thought and Tradition,* Union University    (919) 280-4309    [nfinn79@gmail.com](mailto:nfinn79@gmail.com)
 
 
 ### Benjamin H. Arbour, Ph.D.
