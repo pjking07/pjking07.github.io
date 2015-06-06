@@ -28,10 +28,10 @@ Kathryn Rose
 
 #### Children
 
-1. Vernon Ray, IV (11)
+1. Vernon Ray, IV (12)
 2. Brooklyn Leigh (8)
 3. Emma Grace (4)
-4. Seth Christopher (1)
+4. Seth Christopher (2)
 
 Some of our children were adopted in 2011.
 
