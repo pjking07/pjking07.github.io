@@ -217,7 +217,7 @@ Led a team of five engineers and served as a point of contact with management.
 
 - *Elder*, First Baptist Church, Durham, North Carolina (formerly)
 - *Associate Professor, Historical Theology and Baptist Studies,*   
-   Southeastern Baptist Theological Seminary
+   Southeastern Baptist Theological Seminary (formerly)
 - *Dean of the School of Theology and Missions and Professor of Christian Thought and Tradition,* Union University  
 
 
