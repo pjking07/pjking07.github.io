@@ -6,10 +6,14 @@ image:
     feature: /layout/family.jpg
 ---
 
-Welcome to my personal website. Above, you will find a menu with links to my pastoral and theological writings in addition to my current [résumé (CV)]({{site.url}}/cv/). You can browse all of my articles in the [archives]({{site.url}}/archives/) section. Furthermore, feel free to connect with me via [email](mailto:{{site.owner.email}}), [twitter](http://twitter.com/{{site.owner.twitter}}/), or [facebook](http://www.facebook.com/{{site.owner.facebook}}/).
+My name is Vernon King, and I am privileged to have a background in both software development and pastoral ministry. I earned a Bachelor of Science in Computer Engineering from [Texas A&M University](http://www.tamu.edu/) and a Master of Divinity in Christian Ministry from [Southeastern Baptist Theological Seminary](http://www.sebts.edu/). 
 
-I was born and raised in Waco, Texas and have lived in 13 homes, six cities, three states, and two countries since leaving home to earn my Bachelor of Science in Computer Engineering at [Texas A&M University](http://www.tamu.edu/). Although I am a vocational software developer, I am a pastor at heart. I recently completed my Master of Divinity in Christian Ministry at [Southeastern Baptist Theological Seminary](http://www.sebts.edu/) and hope to transition into a pastoral role in the near future.
+I am available for itinerant preaching, intentional interims, and church consultations. Feel free to review my [résumé]({{site.url}}/cv/) and contact me for any of your ministerial needs. You may reach me via [email](mailto:{{site.owner.email}}), [twitter](http://twitter.com/{{site.owner.twitter}}/), or [facebook](http://www.facebook.com/{{site.owner.facebook}}/).
 
-My wonderful bride, Kathryn King, and I currently have four children: Vernon, Brooklyn, Emma, and Seth. Katie faithfully updates family, friends and strangers about our brood at her blog, [Adopted by the King](http://www.adoptedbytheking.com/). I pray her writing will bless you as it has blessed me and many readers over the years.
+If you are interested in my software background, please visit my [companion site](http://www.pjking.org/).
 
-Take a look around; I hope you enjoy what you discover.
+I was born and raised in Waco, Texas,  but have since lived in 14 homes, six cities, three states, and two countries before returning to my hometown in order to best care for my family. I am happily employed as a software engineer, working remotely from my home in Waco.
+
+My wonderful bride, Kathryn King, and I currently have four children: Vernon, Brooklyn, Emma, and Seth. Katie faithfully updates family, friends and strangers about our brood at her blog, [Adopted by the King](http://www.adoptedbytheking.com/). 
+
+Please take a look around, and again, contact me with any questions you may have. 

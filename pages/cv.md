@@ -12,7 +12,7 @@ keywords: ["Southeastern Baptist Theological Seminary", "SEBTS", "Southwestern B
 
 ---
 
-Having felt an earnest call to ministry since college, I have been preparing for church ministry through internship opportunities, academic study, voracious reading, intense dialog, and a foray into electronic publishing while simultaneously pursuing a career in software development. Although my primary focus has been church health, including church planting and church strengthening, I have also been gifted in personal counseling and have experience in adoption ministry.
+Having felt an earnest call to ministry since college, I have been preparing for church ministry through internship opportunities, academic study, voracious reading, intense dialog, and even a foray into electronic publishing. Although my primary ministerial focus has been church health, I have also been gifted in personal counseling and have experience in adoption ministry. I am currently available for itinerant preaching, intentional interims, and church consultations.
 
 I affirm the [Abstract of Principles](http://www.sbts.edu/documents/abstract.pdf),[^ap] the [Baptist Faith and Message 2000](http://www.sbc.net/bfm/bfm2000.asp), the [Chicago Statement on Biblical Inerrancy](http://www.sebts.edu/files/chicago-statement-on-biblical-inerrancy.pdf), and the [Danvers Statement on Biblical Manhood and Womanhood](http://cbmw.org/uncategorized/the-danvers-statement/).
 
@@ -28,10 +28,10 @@ Kathryn Rose
 
 #### Children
 
-1. Vernon Ray, IV (11)
-2. Brooklyn Leigh (8)
-3. Emma Grace (4)
-4. Seth Christopher (1)
+1. Vernon Ray, IV (12)
+2. Brooklyn Leigh (9)
+3. Emma Grace (5)
+4. Seth Christopher (2)
 
 Some of our children were adopted in 2011.
 
@@ -111,8 +111,8 @@ Residential intern with an IMB missionary team:
 
 Served in the church in a variety of roles:
 
-- Home Fellowship (small group) co-leader and teacher (Fall 2014--present)
-- Bible for Life co-teacher, fifth grade boys (Fall 2014--present)
+- Home Fellowship (small group) co-leader and teacher (Fall 2014--Spring 2015)
+- Bible for Life co-teacher, fifth grade boys (Fall 2014--Spring 2015)
 - Bible for Life co-teacher, two year-olds (Fall 2013)
 
 
@@ -171,9 +171,14 @@ Raised by my parents to be a faithful member:
 
 ## Professional History
 
+### Olo (Waco, Texas)  
+
+*Software Engineer (February 2015--present)*  
+ 
+
 ### Southeastern Baptist Theological Seminary (Wake Forest, North Carolina)
 
-*Software Developer (May 2013--present)*
+*Software Developer (May 2013--January 2015)*
 
 
 ### FTS International (Fort Worth, Texas)
@@ -210,8 +215,10 @@ Led a team of five engineers and served as a point of contact with management.
 
 ### [Nathan Finn](http://www.nathanfinn.com/), Ph.D.
 
-- *Elder*, First Baptist Church, Durham, North Carolina
-- *Associate Professor, Historical Theology and Baptist Studies*, Southeastern Baptist Theological Seminary
+- *Elder*, First Baptist Church, Durham, North Carolina (formerly)
+- *Associate Professor, Historical Theology and Baptist Studies,*   
+   Southeastern Baptist Theological Seminary (formerly)
+- *Dean of the School of Theology and Missions and Professor of Christian Thought and Tradition,* Union University  
 
 
 ### Benjamin H. Arbour, Ph.D.
